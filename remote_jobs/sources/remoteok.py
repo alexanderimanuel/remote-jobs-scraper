@@ -24,7 +24,7 @@ def parse(payload: list) -> list[Job]:
             continue  # skips the legal-notice element and anything malformed
         salary = ""
         lo, hi = item.get("salary_min"), item.get("salary_max")
-        if lo and hi:
+        if lo and hi and int(lo) != int(hi):
             salary = f"${int(lo):,} - ${int(hi):,}"
         elif lo or hi:
             salary = f"${int(lo or hi):,}"
