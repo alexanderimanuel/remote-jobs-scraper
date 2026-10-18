@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>We Work Remotely: Remote jobs</title>
+    <item>
+      <title>Scrapewise: Data Extraction Specialist</title>
+      <region>Anywhere in the World</region>
+      <category>Programming</category>
+      <type>Full-Time</type>
+      <description><![CDATA[<p>Scrape websites, clean data, deliver CSVs to clients.</p>]]></description>
+      <pubDate>Thu, 16 Oct 2026 09:30:00 +0000</pubDate>
+      <link>https://weworkremotely.com/remote-jobs/scrapewise-data-extraction-specialist</link>
+    </item>
+    <item>
+      <title>No Colon Title Here</title>
+      <region>Europe Only</region>
+      <category>Design</category>
+      <type>Contract</type>
+      <description><![CDATA[Design things.]]></description>
+      <pubDate>Mon, 13 Oct 2026 09:30:00 +0000</pubDate>
+      <link>https://weworkremotely.com/remote-jobs/no-colon</link>
+    </item>
+  </channel>
+</rss>

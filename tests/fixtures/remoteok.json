@@ -1,0 +1,28 @@
+[
+  {"legal": "Remote OK API terms: attribution required."},
+  {
+    "id": "123",
+    "slug": "automation-engineer-acme",
+    "position": "Automation Engineer",
+    "company": "Acme Robotics",
+    "location": "Worldwide",
+    "tags": ["python", "automation", "n8n"],
+    "salary_min": 60000,
+    "salary_max": 90000,
+    "url": "https://remoteok.com/remote-jobs/123-automation-engineer-acme?ref=feed",
+    "date": "2026-10-16T10:11:12+00:00",
+    "description": "<p>We automate <b>boring</b> work.&nbsp;Build pipelines with Python.</p>"
+  },
+  {
+    "id": "124",
+    "position": "Technical Writer",
+    "company": "DocsCo",
+    "location": "Europe",
+    "tags": ["writing", "docs"],
+    "salary_min": null,
+    "salary_max": null,
+    "url": "https://remoteok.com/remote-jobs/124-technical-writer-docsco",
+    "epoch": 1760000000,
+    "description": "<div>Write API docs.</div>"
+  }
+]

@@ -1,0 +1,34 @@
+name: daily jobs snapshot
+
+# Pulls fresh AI / automation remote jobs every morning (01:00 UTC = 08:00 WIB)
+# and commits the result to data/latest.csv so the repo always has a live sample.
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - run: |
+          python -m remote_jobs -k ai -k llm -k automation -k scrap -k "technical writer" -k "qa" \
+            --since-days 14 --no-preview -o data/latest.csv
+          python -m remote_jobs -k ai -k llm -k automation -k scrap -k "technical writer" -k "qa" \
+            --since-days 14 --no-preview -o data/latest.json
+      - name: commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.csv data/latest.json
+          git diff --cached --quiet || git commit -m "data: daily jobs snapshot $(date -u +%F)"
+          git push

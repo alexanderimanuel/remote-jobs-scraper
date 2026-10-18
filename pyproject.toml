@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "remote-jobs-scraper"
+version = "0.1.0"
+description = "Collect remote job postings from RemoteOK, Remotive and We Work Remotely into one clean CSV or JSON file."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Alexander Imanuel Widjanarko", email = "alexanderiw@student.ub.ac.id" }]
+keywords = ["scraper", "remote jobs", "csv", "etl", "rss", "api"]
+dependencies = ["requests>=2.27"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+remote-jobs = "remote_jobs.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/alexanderimanuel/remote-jobs-scraper"
+Author = "https://alexiw.my.id"
+
+[tool.setuptools.packages.find]
+include = ["remote_jobs*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
