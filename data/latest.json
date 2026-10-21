@@ -1,6 +1,76 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
+    "company": "Toptal",
+    "location": "North America Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-20",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+    "description": "Headquarters: Summary We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360 insight development, SQL/SOQL work, data-quality validation, field-user training, and daily use of AI copilots/agents to improve delivery speed while maintaining accountab…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Distribution Engineer",
+    "company": "Vertex Marketing Group",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Back-End Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-20",
+    "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+    "description": "Headquarters: Bulgaria URL: https://vertexmg.com Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You work directly with the founder. Most content gets made and then dies at a few hundred views, because getting it out is still done by hand: a person, a phone, a few accounts. We want…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
+    "company": "Celonis",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-20",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
+    "description": "Headquarters: Remote, US, Ohio Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Client Value Partner (CVP) - Oil & Gas Industry",
+    "company": "Celonis",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-20",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
+    "description": "Headquarters: Remote, US, Texas Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its globa…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "NA Enterprise Expansion Account Executive, Strategic - Future Opportunities",
+    "company": "Lucid Software",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-20",
+    "url": "https://weworkremotely.com/remote-jobs/lucid-software-na-enterprise-expansion-account-executive-strategic-future-opportunities",
+    "description": "Headquarters: Remote, US Lucid Software is the leader in AI-driven work acceleration, helping teams see and build the future by turning ideas into reality. Its products include the Lucid Visual Collaboration Suite (Lucidchart and Lucidspark) and airfocus. The Lucid Visual Collaboration Suite, combined with powerful accelerators for cloud and process transformation, empowers organizations to strea…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Senior QA Automation Engineer",
     "company": "Proxify AB",
     "location": "Anywhere in the World",
@@ -12,34 +82,6 @@
     "posted_at": "2026-10-19",
     "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer-1",
     "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior QA Automation Engineer to join one of our high-growth client teams as the primary architect of their quality assurance strategy. In this role, you will move beyond manual validation to build robust, scalable automation frameworks that ensure software reliability at high velocity. You will be responsible for t…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Cloud Engineer (Azure)",
-    "company": "Proxify AB",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-19",
-    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-cloud-engineer-azure-1",
-    "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Cloud Engineer specializing in Microsoft Azure on behalf of our client to design, automate, and maintain high-availability cloud infrastructure. In this role, you will take operational ownership of enterprise Azure landing zones, container orchestration, and CI/CD pipeline automation—ensuring high reliability…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Compliance Manager, BSA/AML Program",
-    "company": "Upstart",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-19",
-    "url": "https://weworkremotely.com/remote-jobs/upstart-compliance-manager-bsa-aml-program",
-    "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with…"
   },
   {
     "source": "weworkremotely",
@@ -100,35 +142,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuMy4xNjcuODM= when applying to show you read the job post completel…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Founding Forward Deployed Engineer",
-    "company": "Alloy",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-18",
-    "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-    "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives gr…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Operations Engineer, BizTech",
-    "company": "Airbnb",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-18",
-    "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-    "description": "Headquarters: Remote- USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Communi…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuMjIxLjY5LjE4MA== when applying to show you read the job post compl…"
   },
   {
     "source": "weworkremotely",
@@ -143,20 +157,6 @@
     "posted_at": "2026-10-18",
     "url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
     "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives gr…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Engineering Manager, Payments",
-    "company": "Airbnb",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-18",
-    "url": "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments",
-    "description": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Commun…"
   },
   {
     "source": "remoteok",
@@ -571,22 +571,5 @@
     "posted_at": "2026-10-07",
     "url": "https://weworkremotely.com/remote-jobs/contra-senior-game-designer",
     "description": "Headquarters: San Francisco, CA URL: http://bit.ly/3kLhMdk About Contra Labs Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is grounded in how top creatives actually work, studying the patterns behind what gets created, what gets chosen, and wh…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Project Manager",
-    "company": "Spiralyze",
-    "location": "Worldwide",
-    "salary": "",
-    "tags": [
-      "project manager",
-      "exec",
-      "ops",
-      "marketing",
-      "cro"
-    ],
-    "posted_at": "2026-10-06",
-    "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-    "description": "The Project Manager is a client-facing role at the center of everything we do. Running high-impact A/B tests requires coordination across many disciplinesâresearch, strategy, design, copywriting, development, QA, analytics, and client stakeholders. Your job is to keep everything moving forward, aligned, and energized. Key Responsibilities Youâll own three core responsibilities: Coordination .…"
   }
 ]
