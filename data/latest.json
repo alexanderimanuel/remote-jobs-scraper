@@ -1,6 +1,97 @@
 [
   {
     "source": "remoteok",
+    "title": "Solutions Engineer",
+    "company": "Onebrief",
+    "location": "Worldwide",
+    "salary": "$180,000 - $220,000",
+    "tags": [
+      "design",
+      "ansible",
+      "grafana",
+      "sys admin",
+      "infosec",
+      "python",
+      "docker",
+      "technical",
+      "recruiter",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "travel",
+      "finance",
+      "cloud",
+      "exec",
+      "senior",
+      "ops",
+      "sales",
+      "golang",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-10-24",
+    "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+    "description": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, help…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Product Management (Security)",
+    "company": "Cribl",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Product",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-24",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
+    "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+    "company": "Anthropic",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-24",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+    "description": "Headquarters: Remote-Friendly, United States About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role A…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Anthropic STEM Fellow",
+    "company": "Anthropic",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-24",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+    "description": "Headquarters: Remote-Friendly, United States; San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI system…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Customer Success Engineer, Sydney",
+    "company": "Cribl",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-24",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
+    "description": "Headquarters: Remote - Australia Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to man…"
+  },
+  {
+    "source": "remoteok",
     "title": "Travel Support Specialist",
     "company": "Aisles &amp; Abroad",
     "location": "Seattle, Washington",
@@ -156,6 +247,22 @@
     "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-base…"
   },
   {
+    "source": "remotive",
+    "title": "AI Trainer - Video Annotation",
+    "company": "iMerit Technology",
+    "location": "Worldwide",
+    "salary": "70K-80K",
+    "tags": [
+      "Artificial Intelligence",
+      "video",
+      "AI/ML",
+      "robotics"
+    ],
+    "posted_at": "2026-10-22",
+    "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+    "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification proces…"
+  },
+  {
     "source": "weworkremotely",
     "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
     "company": "Toptal",
@@ -255,20 +362,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Core Protocol Engineer",
-    "company": "Ritual",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-21",
-    "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
-    "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Controller",
     "company": "Ritual",
     "location": "Anywhere in the World",
@@ -340,7 +433,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMTcyLjIwOC41OS4xNjA= when applying to show you read the job post compl…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNjQuMjM2LjE5Mi4xNDU= when applying to show you read the job post compl…"
   },
   {
     "source": "weworkremotely",
@@ -489,20 +582,6 @@
     "posted_at": "2026-10-16",
     "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
     "description": "The Role We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT & Workplace to own them properly. You'll own two halves of…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Solutions Consultant",
-    "company": "PagerDuty",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-16",
-    "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant",
-    "description": "Headquarters: Remote (USA - Boston, MA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is…"
   },
   {
     "source": "remoteok",
