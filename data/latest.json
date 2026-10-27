@@ -1,17 +1,105 @@
 [
   {
     "source": "weworkremotely",
-    "title": "AI Developer Experience Engineer",
-    "company": "PlanetScale",
+    "title": "Lifecycle & CRM Specialist",
+    "company": "Replika",
+    "location": "EMEA",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/replika-lifecycle-crm-specialist",
+    "description": "Headquarters: Armenia Yerevan, EMEA, Armenia URL: http://replika.com About Replika In 2017, no one knew what AI was supposed to be. We built the world's first consumer AI app. Two million people showed up in two months. Today it's over 40 million, and the thing they keep telling us hasn't changed: it helped. It made their life better, steadier, a little less alone. Most AI is built for tasks, not…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Head of Design | Maps Platform (Remote in Europe)",
+    "company": "MapTiler",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Design",
+      "Contract"
+    ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
+    "description": "Headquarters: Zug, Switzerland URL: https://www.maptiler.com/ Full-time Freelance / B2B contract Remote in Europe Description MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a Head of Design to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Staff Sales Engineer, Australia",
+    "company": "Cockroach Labs",
     "location": "Anywhere in the World",
     "salary": "",
     "tags": [
       "Sales and Marketing",
       "Full-Time"
     ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-senior-staff-sales-engineer-australia",
+    "description": "Headquarters: Remote, Australia Category-defining tech. Career-defining work. For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual da…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Sales Development Representative, Singapore",
+    "company": "Cockroach Labs",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-sales-development-representative-singapore",
+    "description": "Headquarters: Remote, Singapore Category-defining tech. Career-defining work. For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual da…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "DevOps Engineer II, Cloud Platform",
+    "company": "Upstart",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
+    "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Business Development Representative, Auto Retail",
+    "company": "Upstart",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-26",
+    "url": "https://weworkremotely.com/remote-jobs/upstart-business-development-representative-auto-retail",
+    "description": "Headquarters: Austin, TX, USA; United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace,…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Senior Software Engineer",
+    "company": "Klardaten",
+    "location": "Worldwide",
+    "salary": "$80,000 - $100,000",
+    "tags": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ],
     "posted_at": "2026-10-25",
-    "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
-    "description": "Headquarters: Remote US About the role More and more PlanetScale databases are created, connected and queried by AI agents. Cursor, Claude Code, Codex and a growing list of other tools now sit between developers and their infrastructure. You will own that experience end to end. You'll make sure PlanetScale shows up everywhere developers build with AI, that our MCP server and CLI work flawlessly i…"
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "description": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as possible Own the outcome Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate…"
   },
   {
     "source": "remoteok",
@@ -178,7 +266,7 @@
   },
   {
     "source": "weworkremotely",
-    "title": "German, French Voice Recording Contributor – Remote / Part-Time",
+    "title": "AI Voice Recording Contributor – Remote / Part-Time",
     "company": "T-Maxx International",
     "location": "Anywhere in the World",
     "salary": "",
@@ -187,7 +275,7 @@
       "Contract"
     ],
     "posted_at": "2026-10-23",
-    "url": "https://weworkremotely.com/remote-jobs/t-maxx-international-german-french-voice-recording-contributor-remote-part-time",
+    "url": "https://weworkremotely.com/remote-jobs/t-maxx-international-ai-voice-recording-contributor-remote-part-time",
     "description": "Headquarters: HongKong URL: https://www.t-maxx.cc/zh/ About the Job We are recruiting speakers of European languages for remote voice recording projects supporting a leading global AI and language technology company. Speakers of all European languages are welcome to apply, including German, French, Italian, Dutch, Swedish, Polish, Finish and other European languages. Tasks are simple and may incl…"
   },
   {
@@ -377,7 +465,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMTI4Ljg1LjQ0LjIyNg== when applying to show you read the job post compl…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNzAuMzcuNzQuMTM1 when applying to show you read the job post completel…"
   },
   {
     "source": "weworkremotely",
@@ -453,20 +541,6 @@
     "posted_at": "2026-10-17",
     "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
     "description": "Headquarters: Remote, United States Principal Product Manager, Agentic AI REMOTE, United States JOB OVERVIEW Legion is building AI agents that carry out workforce management work, not agents that describe it. Much of what is presented as AI in workforce management today is a conversational layer over an existing scheduling screen. The more substantial problem — software that reasons over demand,…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Global Controller",
-    "company": "Customer.io",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-17",
-    "url": "https://weworkremotely.com/remote-jobs/customer-io-global-controller",
-    "description": "Headquarters: Americas Remote About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, my…"
   },
   {
     "source": "remoteok",
@@ -629,48 +703,5 @@
     "posted_at": "2026-10-14",
     "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
     "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Technical Customer Support",
-    "company": "QuickMail",
-    "location": "Worldwide",
-    "salary": "$30,000 - $50,000",
-    "tags": [
-      "customer support"
-    ],
-    "posted_at": "2026-10-12",
-    "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
-    "description": "QuickMail is a cold email and LinkedIn outreach platform for markets you can't afford to burn. Our customers can't easily replace leads that land in spam, which is why deliverability matters more to us than anything else. We have been running since 2014, and we pioneered deliverability technology such as Inbox rotationâ¢ and deliverability AIâ¢. The Role We are hiring a technical customer suppo…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Senior Sales Executive Central Region",
-    "company": "SimSpace Corporation",
-    "location": "Worldwide",
-    "salary": "$145,000 - $220,000",
-    "tags": [
-      "saas",
-      "embedded",
-      "sys admin",
-      "infosec",
-      "education",
-      "customer support",
-      "testing",
-      "marketing",
-      "finance",
-      "cloud",
-      "exec",
-      "content writing",
-      "senior",
-      "stats",
-      "legal",
-      "sales",
-      "medical",
-      "engineer"
-    ],
-    "posted_at": "2026-10-12",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
-    "description": "SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive, AI-ready defenses that stay ahead of evolving threats. Founded in 2015 by experts from U.S. Cyber Command and MIT Lincoln Laboratory, the plat…"
   }
 ]
