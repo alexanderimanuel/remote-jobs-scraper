@@ -1,6 +1,104 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Video Editor",
+    "company": "PlanetScale",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/planetscale-video-editor",
+    "description": "Headquarters: Remote US We're looking for a Video Editor who will help shape how videos get made at PlanetScale. You'll work with our team to edit and animate YouTube videos, social shorts, conference highlights, case studies, and launch films, with free rein to use any tool that makes them better, including ones that didn't exist six months ago. AI is reshaping the video editing space in similar…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Website Manager",
+    "company": "Veracode",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/veracode-senior-website-manager",
+    "description": "Headquarters: Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation engine, the Veracode platform is trusted…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior IT Systems Engineer",
+    "company": "Upsun",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+    "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Solutions Engineering (Enterprise AMER)",
+    "company": "Cribl",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-director-solutions-engineering-enterprise-amer-1",
+    "description": "Headquarters: Remote - Canada Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Manager, Customer Onboarding & Success",
+    "company": "Veracode",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success",
+    "description": "Headquarters: Burlington, MA; Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation engine, the Veracode plat…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Sales Enablement Manager",
+    "company": "Upsun",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/upsun-sales-enablement-manager",
+    "description": "Headquarters: Remote • Spain, France, Germany and the United Kingdom About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun br…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Solutions Engineering (Enterprise AMER)",
+    "company": "Cribl",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-27",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-director-solutions-engineering-enterprise-amer",
+    "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Lifecycle & CRM Specialist",
     "company": "Replika",
     "location": "EMEA",
@@ -29,34 +127,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Senior Staff Sales Engineer, Australia",
-    "company": "Cockroach Labs",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-senior-staff-sales-engineer-australia",
-    "description": "Headquarters: Remote, Australia Category-defining tech. Career-defining work. For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual da…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Sales Development Representative, Singapore",
-    "company": "Cockroach Labs",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://weworkremotely.com/remote-jobs/cockroach-labs-sales-development-representative-singapore",
-    "description": "Headquarters: Remote, Singapore Category-defining tech. Career-defining work. For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual da…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "DevOps Engineer II, Cloud Platform",
     "company": "Upstart",
     "location": "Anywhere in the World",
@@ -68,20 +138,6 @@
     "posted_at": "2026-10-26",
     "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
     "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Business Development Representative, Auto Retail",
-    "company": "Upstart",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://weworkremotely.com/remote-jobs/upstart-business-development-representative-auto-retail",
-    "description": "Headquarters: Austin, TX, USA; United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace,…"
   },
   {
     "source": "remoteok",
@@ -224,20 +280,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "QA/DevOps Engineer",
-    "company": "Discord",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-23",
-    "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
-    "description": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during,…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Bilingual/Spanish Speaking Licensed Practical Nurse",
     "company": "Cadence Health",
     "location": "Anywhere in the World",
@@ -321,20 +363,6 @@
     "posted_at": "2026-10-22",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
     "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification proces…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-    "company": "Toptal",
-    "location": "EMEA Only",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-22",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-    "description": "Headquarters: Summary We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing observability with Grafana and Prometheus, with onsite presence in Riyadh required for two weeks per month. General information They need a s…"
   },
   {
     "source": "weworkremotely",
@@ -465,7 +493,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNzAuMzcuNzQuMTM1 when applying to show you read the job post completel…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNDAuMTI0LjEwMi44NQ== when applying to show you read the job post compl…"
   },
   {
     "source": "weworkremotely",
