@@ -1,6 +1,136 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Automation Specialist",
+    "company": "Welocalize",
+    "location": "North America Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "description": "Headquarters: Ciudad de México, Mexico URL: https://t.mtrbio.com/WeloData About the Role We're looking for an Automation Specialist to join our Movie and TV Metadata team — a unique, blended role for someone who wants to combine hands-on content work with the chance to build real AI and automation solutions. You'll start by working as a fully contributing project specialist, gaining first-hand kn…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Principal Enterprise Architect",
+    "company": "Jumio",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+    "description": "Headquarters: India (remote) Enterprise Architect - Cloud & AI Role Overview Jumio is not just processing transactions; we are pioneering the future of identity intelligence. To lead this transformation, you serve as a visionary AI Adoption Catalyst and Systems Architect , redefining our technical landscape. In this role, you aren’t a traditional gatekeeper—you are a Developer Advocate and missio…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Community Engagement Manager, Data Centers (Louisiana)",
+    "company": "Anthropic",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-louisiana",
+    "description": "Headquarters: Remote-Friendly, United States About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role A…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Autonomous Systems Security Engineer",
+    "company": "Anthropic",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
+    "description": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI sy…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Design",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
+    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Renewals Associate",
+    "company": "Airtable",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
+    "description": "Headquarters: Remote - US Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Le…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Cloud Engineer Automation",
+    "company": "Smile Digital Health",
+    "location": "Toronto, Ontario",
+    "salary": "",
+    "tags": [
+      "design",
+      "grafana",
+      "infosec",
+      "python",
+      "customer support",
+      "marketing",
+      "dev",
+      "quality assurance",
+      "devops",
+      "education",
+      "cloud",
+      "git",
+      "postgres",
+      "microsoft",
+      "exec",
+      "ops",
+      "medical",
+      "engineer",
+      "recruiter",
+      "digital nomad"
+    ],
+    "posted_at": "2026-10-29",
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "description": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #19 on Deloitte's Technology Fast 50 Ranking for 2024! Smile Digital Health makes it easy for health…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "CRM Retention Junior",
     "company": "Bullfinch Recruitment",
     "location": "Anywhere in the World",
@@ -127,20 +257,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Principal Customer Success Manager",
-    "company": "Fin",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-29",
-    "url": "https://weworkremotely.com/remote-jobs/fin-principal-customer-success-manager",
-    "description": "Headquarters: Chicago, Illinois; NYC, Remote; San Francisco, California Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Power…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "AI Data Quality Specialist - AI Trainer",
     "company": "iMerit Technology",
     "location": "Anywhere in the World",
@@ -197,34 +313,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Lead Data Scientist, Product",
-    "company": "Descript",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/descript-lead-data-scientist-product",
-    "description": "Headquarters: San Francisco, CA or Remote, US Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit, and mix spoken audio and video comes with a series of unique challenges and requires solving hard and complex problems. As a lead product data scientist on…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Content Marketing Specialist - UK",
-    "company": "Storyblok",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-content-marketing-specialist-uk",
-    "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. WHAT IS IN IT FOR YOU You will be joining…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Business Intelligence Analyst (Contractor)",
     "company": "Doximity",
     "location": "Anywhere in the World",
@@ -236,20 +324,6 @@
     "posted_at": "2026-10-28",
     "url": "https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
     "description": "Headquarters: San Francisco, CA or Remote (U.S.) **This is a contract role expected to last until April 15th, 2027 Location : This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role. About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-p…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Account Executive II, Federal DOW/Army/Navy/Air Force/Pentagon",
-    "company": "Collibra",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/collibra-senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon",
-    "description": "Headquarters: Remote, USA Joining Collibra’s Public Sector team Make an impact at Collibra Public Sector by driving growth in US federal DOW agencies. This role will be responsible for selling Collibra's value and vision to prospects and existing customers, offering a complete solution that includes software, support and services. As part of our federal sales team, you will manage some of Collibr…"
   },
   {
     "source": "remotive",
@@ -354,20 +428,6 @@
     "posted_at": "2026-10-26",
     "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
     "description": "Headquarters: Zug, Switzerland URL: https://www.maptiler.com/ Full-time Freelance / B2B contract Remote in Europe Description MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a Head of Design to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "DevOps Engineer II, Cloud Platform",
-    "company": "Upstart",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
-    "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with…"
   },
   {
     "source": "remoteok",
@@ -569,7 +629,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuODQuMjQ2LjE3 when applying to show you read the job post completel…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuMTcxLjEuOTY= when applying to show you read the job post completel…"
   },
   {
     "source": "weworkremotely",
@@ -631,64 +691,5 @@
     "posted_at": "2026-10-17",
     "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
     "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote,…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Associate Data Scientist",
-    "company": "AlgaeCal",
-    "location": "Vancouver",
-    "salary": "",
-    "tags": [
-      "design",
-      "python",
-      "customer support",
-      "marketing",
-      "dev",
-      "flutter",
-      "exec",
-      "data science",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "ecommerce",
-      "digital nomad"
-    ],
-    "posted_at": "2026-10-16",
-    "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-    "description": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and embedding machine learning models into real-world AI applications. If that sounds…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Director of IT and Workplace",
-    "company": "Hippocratic AI",
-    "location": "Menlo Park",
-    "salary": "",
-    "tags": [
-      "exec",
-      "saas",
-      "infosec",
-      "python",
-      "technical",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "education",
-      "c",
-      "admin",
-      "microsoft",
-      "senior",
-      "ops",
-      "legal",
-      "medical",
-      "recruiter",
-      "engineer",
-      "digital nomad"
-    ],
-    "posted_at": "2026-10-16",
-    "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
-    "description": "The Role We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT & Workplace to own them properly. You'll own two halves of…"
   }
 ]
