@@ -1,5 +1,129 @@
 [
   {
+    "source": "remoteok",
+    "title": "Scientific Account Executive",
+    "company": "Adaptyv",
+    "location": "Lausanne",
+    "salary": "",
+    "tags": [
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "api",
+      "exec",
+      "sales",
+      "golang",
+      "biotech",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+    "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical w…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Distributed Systems Engineer",
+    "company": "Ritual",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
+    "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "AI Security Sales Executive, North Central",
+    "company": "Abnormal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central",
+    "description": "Headquarters: Remote - USA ABOUT THE ROLE AI is rewriting how every company works, and everyone is racing to figure out how to secure it. We have, and we need someone to take it to market. The AI Security Sales Executive is a quota-carrying sales role dedicated to Abnormal's AI Security suite: five products built to help customers govern AI, secure AI, and defend against rogue AI. You will work a…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Technical Support Engineer, Triage & Discovery",
+    "company": "Alloy",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
+    "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through o…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Developer Experience Engineer",
+    "company": "Ritual",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
+    "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "AI Security Sales Executive, Bay Area",
+    "company": "Abnormal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-10-31",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-bay-area",
+    "description": "Headquarters: Remote - USA ABOUT THE ROLE AI is rewriting how every company works, and everyone is racing to figure out how to secure it. We have, and we need someone to take it to market. The AI Security Sales Executive is a quota-carrying sales role dedicated to Abnormal's AI Security suite: five products built to help customers govern AI, secure AI, and defend against rogue AI. You will work a…"
+  },
+  {
+    "source": "remoteok",
+    "title": "AWS Cloud Solutions Architect",
+    "company": "Cloudary SAS",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": [
+      "architecture",
+      "design",
+      "ansible",
+      "infosec",
+      "docker",
+      "technical",
+      "dev",
+      "exec",
+      "serverless",
+      "cloud",
+      "postgres",
+      "sql",
+      "api",
+      "senior",
+      "ops",
+      "sales",
+      "golang",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-10-30",
+    "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+    "description": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practice…"
+  },
+  {
     "source": "weworkremotely",
     "title": "Automation Specialist",
     "company": "Welocalize",
@@ -130,6 +254,46 @@
     "description": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #19 on Deloitte's Technology Fast 50 Ranking for 2024! Smile Digital Health makes it easy for health…"
   },
   {
+    "source": "remotive",
+    "title": "Full-Stack Developer",
+    "company": "Fluence International, Inc.",
+    "location": "Worldwide",
+    "salary": "$3.5k–$5k/month",
+    "tags": [
+      "Software Development",
+      "admin",
+      "api",
+      "AWS",
+      "backend",
+      "cloud",
+      "docker",
+      "frontend",
+      "fullstack",
+      "javascript",
+      "react",
+      "security",
+      "UI/UX",
+      "AI/ML",
+      "automation",
+      "documentation",
+      "healthcare",
+      "Typescript",
+      "web applications",
+      "SOLID",
+      "JSON",
+      "serverless",
+      "next.js",
+      "github",
+      "REST",
+      "mental health",
+      "BaaS",
+      "datadog"
+    ],
+    "posted_at": "2026-10-29",
+    "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+    "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing on…"
+  },
+  {
     "source": "weworkremotely",
     "title": "CRM Retention Junior",
     "company": "Bullfinch Recruitment",
@@ -215,20 +379,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Senior Customer Success Manager",
-    "company": "Fin",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-29",
-    "url": "https://weworkremotely.com/remote-jobs/fin-senior-customer-success-manager",
-    "description": "Headquarters: Chicago, Illinois; NYC, Remote; San Francisco, California Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Power…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Senior AI Engineer - US",
     "company": "Typeform",
     "location": "Anywhere in the World",
@@ -257,20 +407,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "AI Data Quality Specialist - AI Trainer",
-    "company": "iMerit Technology",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Contract"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/imerit-technology-ai-data-quality-specialist-ai-trainer",
-    "description": "Headquarters: California URL: https://imerit.ai/ About the opportunity We’re seeking detail-oriented professionals to review AI-generated content and annotated data for accuracy, clarity, and consistency. This role is well suited to candidates with backgrounds in editing, teaching, instructional design, quality assurance, research, or AI data annotation. You will apply detailed written guidelines…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Senior Database Reliability Engineer I - Germany/Austria/UK",
     "company": "Storyblok",
     "location": "Anywhere in the World",
@@ -282,48 +418,6 @@
     "posted_at": "2026-10-28",
     "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-database-reliability-engineer-i-germany-austria-uk",
     "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. WHAT IS IN IT FOR YOU You will be joining…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "AI Security Sales Executive",
-    "company": "Abnormal",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive",
-    "description": "Headquarters: Remote - UK ABOUT THE ROLE AI is rewriting how every company works, and everyone is racing to figure out how to secure it. We have, and we need someone to take it to market. The AI Security Sales Executive is a quota-carrying sales role dedicated to Abnormal's AI Security suite: five products built to help customers govern AI, secure AI, and defend against rogue AI. You will work al…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Marketing Events Manager",
-    "company": "Doximity",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/doximity-marketing-events-manager",
-    "description": "Headquarters: San Francisco, CA or Remote (U.S.) Events Manager About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity,…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Business Intelligence Analyst (Contractor)",
-    "company": "Doximity",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-28",
-    "url": "https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
-    "description": "Headquarters: San Francisco, CA or Remote (U.S.) **This is a contract role expected to last until April 15th, 2027 Location : This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role. About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-p…"
   },
   {
     "source": "remotive",
@@ -629,7 +723,7 @@
     ],
     "posted_at": "2026-10-18",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuMTcxLjEuOTY= when applying to show you read the job post completel…"
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuNTUuODYuMTc4 when applying to show you read the job post completel…"
   },
   {
     "source": "weworkremotely",
@@ -644,52 +738,5 @@
     "posted_at": "2026-10-18",
     "url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
     "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives gr…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "location": "Worldwide",
-    "salary": "$10,000",
-    "tags": [
-      "dev",
-      "python",
-      "javascript",
-      "typescript",
-      "golang",
-      "java",
-      "c plus plus"
-    ],
-    "posted_at": "2026-10-17",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-    "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote,…"
-  },
-  {
-    "source": "remotive",
-    "title": "Software Engineer, AI Coding Tasks",
-    "company": "Askable",
-    "location": "Worldwide",
-    "salary": "$1000 per task",
-    "tags": [
-      "Software Development",
-      "C++",
-      "docker",
-      "git",
-      "go",
-      "java",
-      "python",
-      "security",
-      "AI/ML",
-      "rust",
-      "Typescript",
-      "distributed systems",
-      "SOLID",
-      "Linux/Unix",
-      "testing",
-      "infrastructure"
-    ],
-    "posted_at": "2026-10-17",
-    "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-    "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote,…"
   }
 ]
