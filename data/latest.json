@@ -1,6 +1,184 @@
 [
   {
     "source": "remoteok",
+    "title": "Software Engineer Infrastructure",
+    "company": "Sodalis, Inc.",
+    "location": "Palo Alto",
+    "salary": "$185,000 - $215,000",
+    "tags": [
+      "dev",
+      "design",
+      "embedded",
+      "sys admin",
+      "cloud",
+      "ruby",
+      "exec",
+      "ops",
+      "golang",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+    "description": "Software Engineer, Infrastructure Hybrid in Palo Alto (Mon / Wed / Thurs) Â· $185Kâ$215K base + meaningful early-stage equity + full benefits Â About Sodalis Specialty pharmacy is where the most complex and expensive drugs reach the most in-need patients, and it still runs on faxes, phone tag, and manual data entry. Patients wait weeks for therapies that can't wait. Sodalis is building AI agent…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Technical Content Marketing Manager",
+    "company": "Socure",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/socure-technical-content-marketing-manager",
+    "description": "Headquarters: URL: https://www.socure.com/ About the role This is an employment marketing role for someone who can make exceptional engineers want to work at Socure. Socure is building AI-native infrastructure for identity, fraud prevention, and trust, and we need your help getting that engineering story out to the places where great technical talent discovers ideas, follows builders, and finds i…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Regional Principal Analyst, Falcon Complete (Remote)",
+    "company": "CrowdStrike",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote",
+    "description": "Headquarters: Missouri, United States URL: http://www.crowdstrike.com As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Channel Account Manager",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-channel-account-manager",
+    "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Back-End Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria",
+    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Risk&AI Manager",
+    "company": "Feedzai",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/feedzai-risk-ai-manager",
+    "description": "Headquarters: Colombia Remote At Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks, payment networks, and acq…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Sr. Technical Recruiter",
+    "company": "AssemblyAI",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/assemblyai-sr-technical-recruiter",
+    "description": "Headquarters: Remote Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. We have a lab, and we also power our own models in our own proprietary inference environment. Our models serve 500M+ inference calls monthly, and process nearly 2 million hours of audio daily. The Voice AI space is at an inflection point; we’re looking for th…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Solution Architect",
+    "company": "Otter.ai",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Product",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/otter-ai-senior-solution-architect",
+    "description": "Headquarters: Mountain View, CA; Remote The Opportunity We are seeking a talented Senior Solution Architect with deep enterprise pre-sales experience who wants to own the technical sale for complex, multi-stakeholder deals and help define how our AI meeting intelligence platform wins against the market's toughest competitors. Your Impact Own the technical sale in strategic Enterprise accounts ($2…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Salesforce Business Systems Administrator",
+    "company": "Salesloft",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
+    "description": "Headquarters: United States, Remote ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovatio…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "GTM Recruiter",
+    "company": "AssemblyAI",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/assemblyai-gtm-recruiter",
+    "description": "Headquarters: Remote Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. We have a lab, and we also power our own models in our own proprietary inference environment. Our models serve 500M+ inference calls monthly, and process nearly 2 million hours of audio daily. The Voice AI space is at an inflection point; we’re looking for th…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "People Operations Coordinator - Temp to FTE Opportunity",
+    "company": "Salesloft",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-coordinator-temp-to-fte-opportunity",
+    "description": "Headquarters: United States, Remote Job Title: People Operations Coordinator - Temp to FTE Opportunity, 3 month contract Job Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Descript",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+    "description": "Headquarters: San Francisco, CA or Remote, US Platform owns the foundation the company runs on: compute and deployment, reliability and on-call, CI/CD and monorepo health, developer environments, the infrastructure that model training and inference run on, and the security boundaries around all of it. AI and agent tooling is the clearest example. You will contribute to how models are trained and…"
+  },
+  {
+    "source": "remoteok",
     "title": "Partner Operations Manager",
     "company": "Mecka",
     "location": "Worldwide",
@@ -90,34 +268,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Distributed Systems Engineer",
-    "company": "Ritual",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-31",
-    "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
-    "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "AI Security Sales Executive, North Central",
-    "company": "Abnormal",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-31",
-    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central",
-    "description": "Headquarters: Remote - USA ABOUT THE ROLE AI is rewriting how every company works, and everyone is racing to figure out how to secure it. We have, and we need someone to take it to market. The AI Security Sales Executive is a quota-carrying sales role dedicated to Abnormal's AI Security suite: five products built to help customers govern AI, secure AI, and defend against rogue AI. You will work a…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Technical Support Engineer, Triage & Discovery",
     "company": "Alloy",
     "location": "Anywhere in the World",
@@ -129,20 +279,6 @@
     "posted_at": "2026-10-31",
     "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
     "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through o…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "AI Security Sales Executive, Bay Area",
-    "company": "Abnormal",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-31",
-    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-bay-area",
-    "description": "Headquarters: Remote - USA ABOUT THE ROLE AI is rewriting how every company works, and everyone is racing to figure out how to secure it. We have, and we need someone to take it to market. The AI Security Sales Executive is a quota-carrying sales role dedicated to Abnormal's AI Security suite: five products built to help customers govern AI, secure AI, and defend against rogue AI. You will work a…"
   },
   {
     "source": "remoteok",
@@ -218,20 +354,6 @@
     "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Renewals Associate",
-    "company": "Airtable",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-30",
-    "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-    "description": "Headquarters: Remote - US Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Le…"
-  },
-  {
     "source": "remoteok",
     "title": "Cloud Engineer Automation",
     "company": "Smile Digital Health",
@@ -302,20 +424,6 @@
     "posted_at": "2026-10-29",
     "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
     "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing on…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "CRM Retention Junior",
-    "company": "Bullfinch Recruitment",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-29",
-    "url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior-1",
-    "description": "Headquarters: Gibraltar, GI URL: http://bullfinchrecruitment.com Bullfinch Recruitment is partnering with one of our clients to find a Junior CRM & Retention Specialist to join their team. This role is designed for a professional who is eager to transition into the world of player engagement and marketing automation. This position is for someone who is operationally disciplined, data-curious, and…"
   },
   {
     "source": "weworkremotely",
@@ -545,20 +653,6 @@
     "description": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, help…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Director, Product Management (Security)",
-    "company": "Cribl",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-24",
-    "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
-    "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to…"
-  },
-  {
     "source": "remoteok",
     "title": "Travel Support Specialist",
     "company": "Aisles &amp; Abroad",
@@ -631,34 +725,6 @@
     "posted_at": "2026-10-22",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
     "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification proces…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Controller",
-    "company": "Ritual",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-21",
-    "url": "https://weworkremotely.com/remote-jobs/ritual-controller",
-    "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Analytics Business Partner",
-    "company": "Cribl",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-21",
-    "url": "https://weworkremotely.com/remote-jobs/cribl-analytics-business-partner",
-    "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to…"
   },
   {
     "source": "weworkremotely",
