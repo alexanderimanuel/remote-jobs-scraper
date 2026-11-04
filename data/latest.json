@@ -1,5 +1,55 @@
 [
   {
+    "source": "weworkremotely",
+    "title": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
+    "company": "ELITEBRAIN",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Design",
+      "Contract"
+    ],
+    "posted_at": "2026-11-03",
+    "url": "https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
+    "description": "Headquarters: Pembroke Pines, Florida, United States URL: https://www.elitebrain.ai Company Description Our client is seeking photography professionals to support an initiative focused on evaluating and improving visual data quality for next-generation artificial intelligence systems. The project combines human creative expertise with detailed image assessment to help improve AI-generated visual…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Remote AI Training - $20/hr - United States",
+    "company": "Remote Talent Cloud",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Contract"
+    ],
+    "posted_at": "2026-11-03",
+    "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-2",
+    "description": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in helping train and improve artificial intelligence (AI) systems. Your work will directly support how AI models learn to recognize text, images, and other data accurately. Your main responsibilities will include: Labeling and categorizing data (such a…"
+  },
+  {
+    "source": "remoteok",
+    "title": "AI ML Engineer",
+    "company": "Docusketch",
+    "location": "Worldwide",
+    "salary": "$10,000 - $120,000",
+    "tags": [
+      "dev",
+      "ai",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence",
+      "neural networks",
+      "3D",
+      "exec",
+      "PyTorch",
+      "product"
+    ],
+    "posted_at": "2026-11-02",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "description": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing softwa…"
+  },
+  {
     "source": "remoteok",
     "title": "Software Engineer Infrastructure",
     "company": "Sodalis, Inc.",
@@ -203,20 +253,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Senior Software Engineer, Data",
-    "company": "Doximity",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-01",
-    "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
-    "description": "Headquarters: San Francisco, CA or Remote (U.S.) Location : This role is remote in the United States, Canada, or some countries in South America. Visa sponsorship is not available for this role. Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Commercial Account Executive",
     "company": "Gong.io",
     "location": "Anywhere in the World",
@@ -228,20 +264,6 @@
     "posted_at": "2026-11-01",
     "url": "https://weworkremotely.com/remote-jobs/gong-io-commercial-account-executive",
     "description": "Headquarters: Chicago | Salt Lake City | Remote (US) Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides, and acts alongside the world’s most successful revenue teams. Powered by the Gong Revenue Graph, AI-powered intelligence, specialized agents, and trust…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "AI Enterprise Architect",
-    "company": "Gong.io",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-01",
-    "url": "https://weworkremotely.com/remote-jobs/gong-io-ai-enterprise-architect",
-    "description": "Headquarters: Remote (US) Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides, and acts alongside the world’s most successful revenue teams. Powered by the Gong Revenue Graph, AI-powered intelligence, specialized agents, and trusted applications, Gong helps…"
   },
   {
     "source": "remoteok",
@@ -265,20 +287,6 @@
     "posted_at": "2026-10-31",
     "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
     "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical w…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Technical Support Engineer, Triage & Discovery",
-    "company": "Alloy",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-31",
-    "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
-    "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through o…"
   },
   {
     "source": "remoteok",
@@ -725,19 +733,5 @@
     "posted_at": "2026-10-22",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
     "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification proces…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Distribution Engineer",
-    "company": "Vertex Marketing Group",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Back-End Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-20",
-    "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-    "description": "Headquarters: Bulgaria URL: https://vertexmg.com Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You work directly with the founder. Most content gets made and then dies at a few hundred views, because getting it out is still done by hand: a person, a phone, a few accounts. We want…"
   }
 ]
