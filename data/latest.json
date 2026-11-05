@@ -1,6 +1,157 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Creative Design Team Lead (AI & Performance Marketing)",
+    "company": "CapsLock",
+    "location": "Remote",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing",
+    "description": "Headquarters: Chișinău, Remote, Anguilla URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Software Development Engineer III (Fullstack ) - Workflows",
+    "company": "HighLevel",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-iii-fullstack-workflows",
+    "description": "Headquarters: India URL: http://gohighlevel.com About HighLevel: HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes. To date, businesses operating on HighLevel have generated over $7 bi…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Software Development Engineer II - CRM",
+    "company": "HighLevel",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-ii-crm",
+    "description": "Headquarters: India URL: http://gohighlevel.com About HighLevel: HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes. To date, businesses operating on HighLevel have generated over $7 bi…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Zoho CRM Developer",
+    "company": "Appsierra Group",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/appsierra-group-zoho-crm-developer",
+    "description": "Headquarters: India URL: http://appsierra.com Key Responsibilities Manage and maintain existing Zoho applications and integrations. Perform system administration, configuration, and customization across Zoho products. Investigate, troubleshoot, and resolve bugs, system issues, and user-reported problems. Configure and optimize workflows, automation rules, blueprints, approvals, and business proce…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
+    "company": "Close",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/close-senior-backend-engineer-backend-platform-usa-only-100-remote",
+    "description": "Headquarters: USA - Remote URL: http://close.com About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scal…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "ML Inference Engineer – Terminal-Bench Task Designer",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-04",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+    "description": "Headquarters: Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSA…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-04",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
+    "description": "Headquarters: Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION M…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
+    "company": "Mindrift",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-04",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+    "description": "Headquarters: Idaho, United States URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the company Paid per approved task, about $100/hr equivalent. One flat rate for every approved task. Built to fit around a clinical practice: Tasks estimated at about 10–20 hrs/week while the project is active; you choose when and how much to contribute Contribute anytime, from…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Paid Media Manager US",
+    "company": "Kyra",
+    "location": "US",
+    "salary": "",
+    "tags": [
+      "exec",
+      "customer support",
+      "testing",
+      "marketing",
+      "finance",
+      "scheme",
+      "content writing",
+      "excel",
+      "stats",
+      "legal",
+      "medical"
+    ],
+    "posted_at": "2026-11-03",
+    "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+    "description": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&M, Ray-Ban, and Converse. Our platform manages the full lifecycle â creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok, Instagram, and YouTube. The Paid Media Manager will work closely with our Director of Paid Strategy…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "location": "Worldwide",
+    "salary": "$40,000 - $50,000",
+    "tags": [
+      "dev",
+      "exec",
+      "accounting",
+      "saas"
+    ],
+    "posted_at": "2026-11-03",
+    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "description": "What Youâll Do ãDesign the architecture of the application and make key technical decisions. ãBuild and maintain scalable features across the Ringbook web application. ãIntegrate AI capabilities throughout the platform to create innovative features. ãDevelop clean, responsive, and intuitive frontend interfaces. ãDesign and optimize backend APIs, database schemas, and data pipelines. ã…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
     "company": "ELITEBRAIN",
     "location": "USA Only",
@@ -103,20 +254,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Senior Channel Account Manager",
-    "company": "Smartsheet",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-channel-account-manager",
-    "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
     "company": "Smartsheet",
     "location": "Anywhere in the World",
@@ -128,20 +265,6 @@
     "posted_at": "2026-11-02",
     "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria",
     "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Risk&AI Manager",
-    "company": "Feedzai",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/feedzai-risk-ai-manager",
-    "description": "Headquarters: Colombia Remote At Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks, payment networks, and acq…"
   },
   {
     "source": "weworkremotely",
@@ -214,20 +337,6 @@
     "description": "Headquarters: United States, Remote Job Title: People Operations Coordinator - Temp to FTE Opportunity, 3 month contract Job Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Software Engineer, Infrastructure",
-    "company": "Descript",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
-    "description": "Headquarters: San Francisco, CA or Remote, US Platform owns the foundation the company runs on: compute and deployment, reliability and on-call, CI/CD and monorepo health, developer environments, the infrastructure that model training and inference run on, and the security boundaries around all of it. AI and agent tooling is the clearest example. You will contribute to how models are trained and…"
-  },
-  {
     "source": "remoteok",
     "title": "Partner Operations Manager",
     "company": "Mecka",
@@ -250,20 +359,6 @@
     "posted_at": "2026-11-01",
     "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
     "description": "About Mecka AI Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems. We work closely with frontier robotics teams to bridge real-world data, simulation, learning-based…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Commercial Account Executive",
-    "company": "Gong.io",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-01",
-    "url": "https://weworkremotely.com/remote-jobs/gong-io-commercial-account-executive",
-    "description": "Headquarters: Chicago | Salt Lake City | Remote (US) Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides, and acts alongside the world’s most successful revenue teams. Powered by the Gong Revenue Graph, AI-powered intelligence, specialized agents, and trust…"
   },
   {
     "source": "remoteok",
@@ -675,20 +770,6 @@
     "posted_at": "2026-10-23",
     "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
     "description": "Position Overview We are seeking dependable and customer-focused individuals to join our team as a Travel Support Specialist. This remote role focuses on assisting clients with travel-related inquiries, supporting reservation coordination, and ensuring a smooth and positive customer experience throughout the booking process. This is an entry-level opportunity within the travel industry. No prior…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Salesforce Lead - USA",
-    "company": "Storyblok",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-23",
-    "url": "https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
-    "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. WHAT IS IN IT FOR YOU You will be joining…"
   },
   {
     "source": "remoteok",
