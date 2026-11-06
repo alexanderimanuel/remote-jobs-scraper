@@ -1,6 +1,104 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Senior ABM Manager",
+    "company": "Chainguard",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/chainguard-senior-abm-manager",
+    "description": "Headquarters: United States URL: https://www.chainguard.dev Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, includin…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Shield Program Lead",
+    "company": "Guesty",
+    "location": "Canada Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/guesty-shield-program-lead",
+    "description": "Headquarters: Canada URL: https://www.guesty.com Guesty is the all-in-one platform helping hospitality businesses around the world automate, optimize, and scale their operations. We’re a fast-growing global startup that’s transforming how the industry works — from guest experience to business growth. With a powerful suite of features and integrations with 150+ industry partners — including Airbnb…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Enterprise Platform & Integration",
+    "company": "The American Institute of Architects",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/the-american-institute-of-architects-director-enterprise-platform-integration",
+    "description": "Headquarters: Washington, District of Columbia, United States URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6e7da1f8-9e44-4306-a29d-b8236c60e9e9 The American Institute of Architects (AIA) AIA will provide you with the opportunity to advocate for the value of architecture and give architects and design professionals the resources they need to do their best w…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+    "company": "Mindrift",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
+    "description": "Headquarters: Peru URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the role Help train and evaluate AI agents on expert-level fluid simulation tasks. You'll take CAD geometry, set up and run simulations, build verified reference solutions, and write Python checks for the agent's results. Requirements A degree in Mechanical or Aerospace Engineering, or a relate…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Marketing Lead | $2.5K - $3K USD Base monthly | Exciting Multicultural E-learning Company",
+    "company": "UPROSPECT",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/uprospect-marketing-lead-2-5k-3k-usd-base-monthly-exciting-multicultural-e-learning-company",
+    "description": "Headquarters: Medellín, Antioquia, Colombia URL: https://uprospect.co Company Description This is a REMOTE role available in LATAM. You must have a strong C1 English level. If this isn’t you, please DO NOT apply. ARE YOU READY TO BUILD THE MARKETING ENGINE OF AN AI-POWERED LEARNING COMPANY FROM THE GROUND UP? THIS IS A HANDS-ON, HIGH-OWNERSHIP OPPORTUNITY FOR A CREATIVE, COMMERCIALLY MINDED BUILD…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Operations Associate (Hiring or Client Delivery)",
+    "company": "Drop Zero Digital",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/drop-zero-digital-operations-associate-hiring-or-client-delivery",
+    "description": "Headquarters: Argentina URL: https://jobs.workable.com/company/693tUBuhUB5i4ApXSEJJhA/jobs-at-drop-zero-digital Grow our AI image service. Before you apply, spend ten minutes on our website and LinkedIn. In your Loom we will ask what we do, where you found out about us, and why you want to work at Drop Zero Digital. Answers that could be about any company will not pass. The role We are Drop Zero…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "MEDICAL VIRTUAL ASSISTANT",
+    "company": "Vital Virtuals Global HR Solutions LLC",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
+    "description": "Headquarters: Buenos Aires, Argentina URL: https://vitalvirtuals.com NOW HIRING: MEDICAL VIRTUAL ASSISTANT! Vital Virtuals Global HR is looking for a reliable and motivated Medical VA to join our team! Responsibilities Answer calls and assist patients Verify insurance & update patient information Manage referrals, faxes & medical records Explain insurance benefits Coordinate with providers and cl…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Creative Design Team Lead (AI & Performance Marketing)",
     "company": "CapsLock",
     "location": "Remote",
@@ -10,8 +108,64 @@
       "Full-Time"
     ],
     "posted_at": "2026-11-05",
-    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing",
-    "description": "Headquarters: Chișinău, Remote, Anguilla URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary…"
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing-1",
+    "description": "Headquarters: Remote, Anguilla URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary MarTech,…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Staff Technical Support Engineer (Web App)",
+    "company": "Horizon3",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/horizon3-staff-technical-support-engineer-web-app",
+    "description": "Headquarters: US, Remote URL: http://horizon3.ai Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations th…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Applied AI Engineer, Document Intelligence",
+    "company": "Vertican",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Back-End Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+    "description": "Headquarters: New Jersey, USA URL: https://vertican.com About the role For 40 years Vertican has buildt software that runs law firms. One year ago we created a new modern AI platform for document automation (processing/extraction/redacting) which our customers have been adopting faster than any product we've ever had. Our suite of AI-enabled products save customers thousands of hours each week by…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Cryptography Specialist for AI lab",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+    "description": "Headquarters: Overview A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPE…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Founding Account Executive",
+    "company": "Mozaiq",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://weworkremotely.com/remote-jobs/mozaiq-founding-account-executive",
+    "description": "Headquarters: URL: https://careers.mozaiq.com About LiftPilot LiftPilot is an AI-powered website personalization platform for B2B companies. We help marketing and growth teams give every visitor a tailored website experience, turning more traffic into engagement, qualified pipeline and conversions. The product is built, enterprise-grade and in the market. We’re live with our first pilots and the…"
   },
   {
     "source": "weworkremotely",
@@ -56,32 +210,34 @@
     "description": "Headquarters: India URL: http://appsierra.com Key Responsibilities Manage and maintain existing Zoho applications and integrations. Perform system administration, configuration, and customization across Zoho products. Investigate, troubleshoot, and resolve bugs, system issues, and user-reported problems. Configure and optimize workflows, automation rules, blueprints, approvals, and business proce…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
-    "company": "Close",
-    "location": "Anywhere in the World",
-    "salary": "",
+    "source": "remoteok",
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "location": "Worldwide",
+    "salary": "$80,000 - $90,000",
     "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-05",
-    "url": "https://weworkremotely.com/remote-jobs/close-senior-backend-engineer-backend-platform-usa-only-100-remote",
-    "description": "Headquarters: USA - Remote URL: http://close.com About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scal…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "ML Inference Engineer – Terminal-Bench Task Designer",
-    "company": "Toptal",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
+      "content writing",
+      "ai",
+      "other"
     ],
     "posted_at": "2026-11-04",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
-    "description": "Headquarters: Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSA…"
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "description": "100% Remote | Independent Contractor | 35 - 40 USD/hour Help shape the future of AI. Artificial Intelligence is evolving rapidly, and high-quality data plays a key role in making it smarter. We're looking for detail-oriented individuals to contribute to exciting AI projects by reviewing and annotating video content. This is your opportunity to get involved in the world of AI, gain hands-on experi…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Software Engineer",
+    "company": "Claims",
+    "location": "Worldwide",
+    "salary": "$10,000 - $30,000",
+    "tags": [
+      "dev",
+      "ai",
+      "blockchain"
+    ],
+    "posted_at": "2026-11-04",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "description": "ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every c…"
   },
   {
     "source": "weworkremotely",
@@ -96,20 +252,6 @@
     "posted_at": "2026-11-04",
     "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
     "description": "Headquarters: Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION M…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
-    "company": "Mindrift",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-04",
-    "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
-    "description": "Headquarters: Idaho, United States URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the company Paid per approved task, about $100/hr equivalent. One flat rate for every approved task. Built to fit around a clinical practice: Tasks estimated at about 10–20 hrs/week while the project is active; you choose when and how much to contribute Contribute anytime, from…"
   },
   {
     "source": "remoteok",
@@ -226,34 +368,6 @@
   },
   {
     "source": "weworkremotely",
-    "title": "Technical Content Marketing Manager",
-    "company": "Socure",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/socure-technical-content-marketing-manager",
-    "description": "Headquarters: URL: https://www.socure.com/ About the role This is an employment marketing role for someone who can make exceptional engineers want to work at Socure. Socure is building AI-native infrastructure for identity, fraud prevention, and trust, and we need your help getting that engineering story out to the places where great technical talent discovers ideas, follows builders, and finds i…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Regional Principal Analyst, Falcon Complete (Remote)",
-    "company": "CrowdStrike",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote",
-    "description": "Headquarters: Missouri, United States URL: http://www.crowdstrike.com As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems…"
-  },
-  {
-    "source": "weworkremotely",
     "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
     "company": "Smartsheet",
     "location": "Anywhere in the World",
@@ -265,20 +379,6 @@
     "posted_at": "2026-11-02",
     "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria",
     "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Sr. Technical Recruiter",
-    "company": "AssemblyAI",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/assemblyai-sr-technical-recruiter",
-    "description": "Headquarters: Remote Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. We have a lab, and we also power our own models in our own proprietary inference environment. Our models serve 500M+ inference calls monthly, and process nearly 2 million hours of audio daily. The Voice AI space is at an inflection point; we’re looking for th…"
   },
   {
     "source": "weworkremotely",
@@ -307,20 +407,6 @@
     "posted_at": "2026-11-02",
     "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
     "description": "Headquarters: United States, Remote ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovatio…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "GTM Recruiter",
-    "company": "AssemblyAI",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/assemblyai-gtm-recruiter",
-    "description": "Headquarters: Remote Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. We have a lab, and we also power our own models in our own proprietary inference environment. Our models serve 500M+ inference calls monthly, and process nearly 2 million hours of audio daily. The Voice AI space is at an inflection point; we’re looking for th…"
   },
   {
     "source": "weworkremotely",
@@ -689,20 +775,6 @@
     "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiri…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Head of Design | Maps Platform (Remote in Europe)",
-    "company": "MapTiler",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Design",
-      "Contract"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
-    "description": "Headquarters: Zug, Switzerland URL: https://www.maptiler.com/ Full-time Freelance / B2B contract Remote in Europe Description MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a Head of Design to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for…"
-  },
-  {
     "source": "remoteok",
     "title": "Senior Software Engineer",
     "company": "Klardaten",
@@ -770,49 +842,5 @@
     "posted_at": "2026-10-23",
     "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
     "description": "Position Overview We are seeking dependable and customer-focused individuals to join our team as a Travel Support Specialist. This remote role focuses on assisting clients with travel-related inquiries, supporting reservation coordination, and ensuring a smooth and positive customer experience throughout the booking process. This is an entry-level opportunity within the travel industry. No prior…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Senior DevOps Engineer",
-    "company": "Lemon.io",
-    "location": "Worldwide",
-    "salary": "$50,000 - $150,000",
-    "tags": [
-      "devops",
-      "engineer",
-      "dev",
-      "python",
-      "golang",
-      "aws",
-      "gcp",
-      "kubernetes",
-      "sql",
-      "linux",
-      "ansible",
-      "ai",
-      "full time",
-      "full stack",
-      "remote",
-      "remote work"
-    ],
-    "posted_at": "2026-10-22",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-base…"
-  },
-  {
-    "source": "remotive",
-    "title": "AI Trainer - Video Annotation",
-    "company": "iMerit Technology",
-    "location": "Worldwide",
-    "salary": "70K-80K",
-    "tags": [
-      "Artificial Intelligence",
-      "video",
-      "AI/ML",
-      "robotics"
-    ],
-    "posted_at": "2026-10-22",
-    "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-    "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification proces…"
   }
 ]
