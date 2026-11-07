@@ -1,5 +1,70 @@
 [
   {
+    "source": "remoteok",
+    "title": "Senior Full Stack Engineer People Products",
+    "company": "Thumbtack",
+    "location": "Toronto",
+    "salary": "",
+    "tags": [
+      "full stack",
+      "design",
+      "saas",
+      "react",
+      "salesforce",
+      "hr",
+      "front end",
+      "python",
+      "technical",
+      "customer support",
+      "dev",
+      "virtual assistant",
+      "finance",
+      "php",
+      "typescript",
+      "admin",
+      "senior",
+      "ops",
+      "marketing",
+      "sales",
+      "golang",
+      "recruiter",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Full-Stack Engineer",
+    "company": "OpenTrain AI",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+    "description": "Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI syste…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Implementation Manager",
+    "company": "Standard Metrics",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-06",
+    "url": "https://weworkremotely.com/remote-jobs/standard-metrics-implementation-manager",
+    "description": "Headquarters: United States URL: https://www.standardmetrics.io Standard Metrics is an AI-driven financial data platform that helps investors and their portfolio companies make more informed, forward-looking decisions with automated reporting and benchmarking tools. We’re a team of optimistic product builders on a mission to accelerate innovation in the private markets. Standard Metrics is backed…"
+  },
+  {
     "source": "weworkremotely",
     "title": "Senior ABM Manager",
     "company": "Chainguard",
@@ -98,6 +163,73 @@
     "description": "Headquarters: Buenos Aires, Argentina URL: https://vitalvirtuals.com NOW HIRING: MEDICAL VIRTUAL ASSISTANT! Vital Virtuals Global HR is looking for a reliable and motivated Medical VA to join our team! Responsibilities Answer calls and assist patients Verify insurance & update patient information Manage referrals, faxes & medical records Explain insurance benefits Coordinate with providers and cl…"
   },
   {
+    "source": "remoteok",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "location": "Worldwide",
+    "salary": "$60,000 - $110,000",
+    "tags": [
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "javascript",
+      "cloud",
+      "postgres",
+      "typescript",
+      "node",
+      "node.js",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "description": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportuni…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Docker",
+      "Git",
+      "Inventory Management",
+      "Supply Chain",
+      "Microsoft Excel",
+      "Python",
+      "SAP",
+      "SAP Production Planning",
+      "SQL",
+      "Supply Chain Operations"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+    "description": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE C…"
+  },
+  {
+    "source": "remoteok",
+    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Artificial Intelligence",
+      "Docker",
+      "Git",
+      "Graphics Processing Unit",
+      "LLM"
+    ],
+    "posted_at": "2026-11-05",
+    "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+    "description": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PL…"
+  },
+  {
     "source": "weworkremotely",
     "title": "Creative Design Team Lead (AI & Performance Marketing)",
     "company": "CapsLock",
@@ -152,20 +284,6 @@
     "posted_at": "2026-11-05",
     "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
     "description": "Headquarters: Overview A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPE…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Founding Account Executive",
-    "company": "Mozaiq",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-05",
-    "url": "https://weworkremotely.com/remote-jobs/mozaiq-founding-account-executive",
-    "description": "Headquarters: URL: https://careers.mozaiq.com About LiftPilot LiftPilot is an AI-powered website personalization platform for B2B companies. We help marketing and growth teams give every visitor a tailored website experience, turning more traffic into engagement, qualified pipeline and conversions. The product is built, enterprise-grade and in the market. We’re live with our first pilots and the…"
   },
   {
     "source": "weworkremotely",
@@ -238,6 +356,23 @@
     "posted_at": "2026-11-04",
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
     "description": "ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every c…"
+  },
+  {
+    "source": "remotive",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "location": "USA",
+    "salary": "$14/hour",
+    "tags": [
+      "All others",
+      "android",
+      "ios",
+      "social media",
+      "AI/ML"
+    ],
+    "posted_at": "2026-11-04",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+    "description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and oth…"
   },
   {
     "source": "weworkremotely",
@@ -826,21 +961,5 @@
     "posted_at": "2026-10-24",
     "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
     "description": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, help…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Travel Support Specialist",
-    "company": "Aisles &amp; Abroad",
-    "location": "Seattle, Washington",
-    "salary": "",
-    "tags": [
-      "travel",
-      "education",
-      "customer support",
-      "non tech"
-    ],
-    "posted_at": "2026-10-23",
-    "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
-    "description": "Position Overview We are seeking dependable and customer-focused individuals to join our team as a Travel Support Specialist. This remote role focuses on assisting clients with travel-related inquiries, supporting reservation coordination, and ensuring a smooth and positive customer experience throughout the booking process. This is an entry-level opportunity within the travel industry. No prior…"
   }
 ]
