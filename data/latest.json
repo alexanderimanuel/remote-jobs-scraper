@@ -1,5 +1,134 @@
 [
   {
+    "source": "remoteok",
+    "title": "Recruiting Coordinator",
+    "company": "Pebl",
+    "location": "Worldwide",
+    "salary": "$114,000,000 - $140,000,000",
+    "tags": [
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "golang",
+      "medical",
+      "recruiter"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+    "description": "Purpose in Every Position Pebl puts a world of talent at your fingertips. With our AI-powered Global Work Platformâ¢, companies can hire, pay, and manage employees in 185+ countriesâremoving risk, red tape, and guesswork from global growth. Backed by more than a decade of compliance leadership and local expertise, Pebl helps businesses move fast, stay compliant, and scale with confidence. With…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Web3 Business Development",
+    "company": "CertiK",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": [
+      "crypto",
+      "web3",
+      "blockchain",
+      "defi",
+      "infosec",
+      "consulting",
+      "technical",
+      "customer support",
+      "testing",
+      "html",
+      "senior",
+      "bus dev",
+      "sales",
+      "engineer"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+    "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end secu…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Content Marketing Lead",
+    "company": "OnTheGoSystems",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead",
+    "description": "Headquarters: Remote URL: http://onthegosystems.com At OnTheGoSystems, the company behind WPML , used on more than 1.5 million websites worldwide, we're looking for a creative, experienced Content Marketing Lead who knows how to turn great content into real business results. AI has changed how we create content, and we embrace it. But great content still needs someone who understands customers, s…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "CAD scripting Expert",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-cad-scripting-expert",
+    "description": "Headquarters: Overview We are building evaluation benchmarks that test whether AI agents can complete real professional work from start to finish. We are hiring expert mechanical design and CAD automation engineers to turn real, paid CAD tasks from their own work into expert-level Terminal-Bench challenges. Each task includes the files and systems it runs on, a working solution and a check that p…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Strategic Project Lead, Legal (J.D.)",
+    "company": "True Talent Solutions Partners",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-strategic-project-lead-legal-j-d",
+    "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Lead end-to-end legal and law-related projects for customers at an AI company. You will translate customer needs into actionable specifications and coordinate Operations and legal experts to build and deliver high-quality data workflows. What You'll Do Own projects from initial scoping and pipeline design thro…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Head of Finance",
+    "company": "Ethena",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/ethena-head-of-finance",
+    "description": "Headquarters: URL: https://www.goethena.com Who we are We’re Ethena, an AI platform that’s revolutionizing the Compliance space. Our team of agents helps Compliance leaders run proactive Compliance programs that drive meaningful behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
+    "company": "Terac",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+    "description": "Headquarters: United States URL: https://terac.com What We're Researching We're hiring offensive cybersecurity experts for a long-term paid project focused on AI evaluation. Our goal is to build and harden reinforcement learning environments that test the limits of frontier AI models. This work directly contributes to understanding and mitigating advanced security risks in emerging technologies.…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Founding Account Executive",
+    "company": "True Talent Solutions Partners",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-founding-account-executive",
+    "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role A growing AI-focused B2B software company is hiring a Founding Account Executive to take ownership of its sales motion and build on founder-led growth. You will manage enterprise sales from prospecting through close and help establish the foundation for a future sales team. What You'll Do Own the full sales cy…"
+  },
+  {
     "source": "weworkremotely",
     "title": "Psychiatrist (MD/DO) - Remote",
     "company": "BetterHelp",
@@ -82,6 +211,56 @@
     "posted_at": "2026-11-09",
     "url": "https://weworkremotely.com/remote-jobs/patchstack-senior-product-manager",
     "description": "Headquarters: Greece URL: https://jobs.workable.com/company/ssarktiaEdEzba97Jjs1YN/jobs-at-patchstack Overview Patchstack protects WordPress sites for hosts, agencies and developers, and we're now launching a security product for people building JavaScript apps with AI tools like Claude Code. That product is early. We have good signals from hosts and hackathons, but we haven't yet found who it se…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Revenue Cycle Manager",
+    "company": "Adaptive Innovations",
+    "location": "Houston",
+    "salary": "",
+    "tags": [
+      "exec",
+      "sys admin",
+      "education",
+      "customer support",
+      "marketing",
+      "admin",
+      "ops",
+      "golang",
+      "medical"
+    ],
+    "posted_at": "2026-11-08",
+    "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
+    "description": "About Us We are fixing US healthcare by building an AI-native physical care platform, starting with home health. Home health is a $140B industry with less than $10B in EBITDA â 40% of revenue is spent on pure administrative waste. We automate this work with AI, creating a fundamentally different cost structure compared to incumbents. This lets us rapidly take market share by serving the 30% of…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Senior Product Manager",
+    "company": "Pencil",
+    "location": "EMEA",
+    "salary": "",
+    "tags": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "sys admin",
+      "game dev",
+      "marketing",
+      "finance",
+      "scheme",
+      "ads",
+      "microsoft",
+      "content writing",
+      "senior",
+      "golang",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-08",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+    "description": "About us At Pencil, we are driving innovation in advertising technology through our state-of-the-art SaaS product, which harnesses Agentic AI to redefine content creation. Our mission is to make AI the default in advertising without replacing creative people. To achieve this, we need to make sure that our technology isn't just in the hands of big brands - we need to try to help small businesses a…"
   },
   {
     "source": "remoteok",
@@ -223,76 +402,6 @@
     "posted_at": "2026-11-06",
     "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
     "description": "Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI syste…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Implementation Manager",
-    "company": "Standard Metrics",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/standard-metrics-implementation-manager",
-    "description": "Headquarters: United States URL: https://www.standardmetrics.io Standard Metrics is an AI-driven financial data platform that helps investors and their portfolio companies make more informed, forward-looking decisions with automated reporting and benchmarking tools. We’re a team of optimistic product builders on a mission to accelerate innovation in the private markets. Standard Metrics is backed…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior ABM Manager",
-    "company": "Chainguard",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/chainguard-senior-abm-manager",
-    "description": "Headquarters: United States URL: https://www.chainguard.dev Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, includin…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-    "company": "Mindrift",
-    "location": "Latin America Only",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
-    "description": "Headquarters: Peru URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the role Help train and evaluate AI agents on expert-level fluid simulation tasks. You'll take CAD geometry, set up and run simulations, build verified reference solutions, and write Python checks for the agent's results. Requirements A degree in Mechanical or Aerospace Engineering, or a relate…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Marketing Lead | $2.5K - $3K USD Base monthly | Exciting Multicultural E-learning Company",
-    "company": "UPROSPECT",
-    "location": "Latin America Only",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/uprospect-marketing-lead-2-5k-3k-usd-base-monthly-exciting-multicultural-e-learning-company",
-    "description": "Headquarters: Medellín, Antioquia, Colombia URL: https://uprospect.co Company Description This is a REMOTE role available in LATAM. You must have a strong C1 English level. If this isn’t you, please DO NOT apply. ARE YOU READY TO BUILD THE MARKETING ENGINE OF AN AI-POWERED LEARNING COMPANY FROM THE GROUND UP? THIS IS A HANDS-ON, HIGH-OWNERSHIP OPPORTUNITY FOR A CREATIVE, COMMERCIALLY MINDED BUILD…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Operations Associate (Hiring or Client Delivery)",
-    "company": "Drop Zero Digital",
-    "location": "Latin America Only",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/drop-zero-digital-operations-associate-hiring-or-client-delivery",
-    "description": "Headquarters: Argentina URL: https://jobs.workable.com/company/693tUBuhUB5i4ApXSEJJhA/jobs-at-drop-zero-digital Grow our AI image service. Before you apply, spend ten minutes on our website and LinkedIn. In your Loom we will ask what we do, where you found out about us, and why you want to work at Drop Zero Digital. Answers that could be about any company will not pass. The role We are Drop Zero…"
   },
   {
     "source": "weworkremotely",
@@ -798,20 +907,6 @@
     "description": "Headquarters: Remote, Mexico Senior Integration Engineer Remote, Mexico JOB OVERVIEW Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration & Automation Solutions for Legion WFM customers. RESPONSIBILITIES AND DUTIES Integration Engineers provid…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Senior AI Engineer - US",
-    "company": "Typeform",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-29",
-    "url": "https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-us",
-    "description": "Headquarters: United States (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is…"
-  },
-  {
     "source": "remotive",
     "title": "Senior Back-end Developer",
     "company": "Lemon.io",
@@ -883,22 +978,5 @@
     "posted_at": "2026-10-27",
     "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
     "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products…"
-  },
-  {
-    "source": "remotive",
-    "title": "Head of Engineering",
-    "company": "Lemon.io",
-    "location": "Worldwide",
-    "salary": "",
-    "tags": [
-      "Software Development",
-      "AI/ML",
-      "startup",
-      "marketplace",
-      "fundraising"
-    ],
-    "posted_at": "2026-10-26",
-    "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
-    "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiri…"
   }
 ]
