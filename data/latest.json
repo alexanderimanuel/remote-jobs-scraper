@@ -1,5 +1,63 @@
 [
   {
+    "source": "weworkremotely",
+    "title": "AI Data Quality Analyst",
+    "company": "EdgeQ Technologies Private Limited",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-10",
+    "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-data-quality-analyst",
+    "description": "Headquarters: United States AI Data Quality Analyst Job Title: AI Data Quality Analyst Location: United States (Remote) Work Mode: 100% Remote Experience: 2–6 Years Salary Range: $70,000 – $115,000 per year (USD) Employment Type: Full-Time Job Category: Artificial Intelligence / Data Analytics / Data Quality Job Summary We are seeking a detail-oriented and analytical AI Data Quality Analyst to jo…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Account Executive - Payment",
+    "company": "DataVisor",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-10",
+    "url": "https://weworkremotely.com/remote-jobs/datavisor-senior-account-executive-payment",
+    "description": "Headquarters: California City, California, United States URL: https://jobs.workable.com/company/tF9SQQtDXuW4nppTkpUXKP/jobs-at-datavisor About DataVisor: DataVisor is the world’s leading AI-powered Fraud and Risk Platform that delivers the best overall detection coverage in the industry. With an open SaaS platform that supports easy consolidation and enrichment of any data, DataVisor's solution s…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Senior Agentic AI Engineer NDA",
+    "company": "GT",
+    "location": "Warsaw",
+    "salary": "",
+    "tags": [
+      "design",
+      "react",
+      "sys admin",
+      "infosec",
+      "python",
+      "consulting",
+      "docker",
+      "technical",
+      "recruiter",
+      "dev",
+      "testing",
+      "marketing",
+      "exec",
+      "senior",
+      "ops",
+      "stats",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-09",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of the client, GT is looking for a Senior Agentic AI Engineer who is interested in solving complex matching and search problems at scale, applying ML and…"
+  },
+  {
     "source": "remoteok",
     "title": "Recruiting Coordinator",
     "company": "Pebl",
@@ -402,20 +460,6 @@
     "posted_at": "2026-11-06",
     "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
     "description": "Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI syste…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "MEDICAL VIRTUAL ASSISTANT",
-    "company": "Vital Virtuals Global HR Solutions LLC",
-    "location": "Latin America Only",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-06",
-    "url": "https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
-    "description": "Headquarters: Buenos Aires, Argentina URL: https://vitalvirtuals.com NOW HIRING: MEDICAL VIRTUAL ASSISTANT! Vital Virtuals Global HR is looking for a reliable and motivated Medical VA to join our team! Responsibilities Answer calls and assist patients Verify insurance & update patient information Manage referrals, faxes & medical records Explain insurance benefits Coordinate with providers and cl…"
   },
   {
     "source": "remoteok",
@@ -905,78 +949,5 @@
     "posted_at": "2026-10-29",
     "url": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
     "description": "Headquarters: Remote, Mexico Senior Integration Engineer Remote, Mexico JOB OVERVIEW Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration & Automation Solutions for Legion WFM customers. RESPONSIBILITIES AND DUTIES Integration Engineers provid…"
-  },
-  {
-    "source": "remotive",
-    "title": "Senior Back-end Developer",
-    "company": "Lemon.io",
-    "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-    "salary": "",
-    "tags": [
-      "Software Development",
-      ".Net",
-      "android",
-      "C",
-      "C#",
-      "C++",
-      "cloud",
-      "data science",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "kubernetes",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript",
-      "distributed systems",
-      "angular",
-      "firebase",
-      "data engineering",
-      "Site Reliability",
-      "Symfony",
-      "Linux/Unix",
-      "next.js",
-      "infrastructure",
-      "flutter",
-      "GPU"
-    ],
-    "posted_at": "2026-10-27",
-    "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune t…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior IT Systems Engineer",
-    "company": "Upsun",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-27",
-    "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
-    "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products…"
   }
 ]
