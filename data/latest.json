@@ -1,59 +1,244 @@
 [
   {
-    "source": "weworkremotely",
-    "title": "Robotics Software Engineer  Job Title: Robotics Software Engineer",
-    "company": "EdgeQ Technologies Private Limited",
-    "location": "USA Only",
+    "source": "remoteok",
+    "title": "Software Engineer AI Tooling",
+    "company": "Supabase",
+    "location": "Worldwide",
     "salary": "",
     "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
+      "dev",
+      "design",
+      "front end",
+      "customer support",
+      "testing",
+      "marketing",
+      "virtual assistant",
+      "javascript",
+      "education",
+      "typescript",
+      "sys admin",
+      "medical",
+      "engineer",
+      "backend",
+      "digital nomad"
     ],
-    "posted_at": "2026-11-12",
-    "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-robotics-software-engineer-job-title-robotics-software-engineer",
-    "description": "Headquarters: United States Robotics Software Engineer Job Title: Robotics Software Engineer Location: United States (Remote) Work Mode: 100% Remote Experience: 3–10 Years Salary Range: $100,000 – $175,000 per year (USD) Employment Type: Full-Time Job Category: Robotics Engineering / Software Development / AI & Automation Job Summary We are seeking a skilled and experienced Robotics Software Engi…"
+    "posted_at": "2026-11-13",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Weâre looking for a Software Engineer to join our AI Tooling team and help shape how developers and agent…"
   },
   {
     "source": "weworkremotely",
-    "title": "Supply Chain Planner – Hardware",
-    "company": "Blueprint Technologies",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-12",
-    "url": "https://weworkremotely.com/remote-jobs/blueprint-technologies-supply-chain-planner-hardware",
-    "description": "Headquarters: URL: https://bpcs.com About Blueprint Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and emerging technology. Our culture is built by people who care deeply about…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Marketing & Content Intern (Part-Time)",
-    "company": "Kinelo",
-    "location": "USA Only",
+    "title": "Creative Marketing Project Coordinator",
+    "company": "CapsLock",
+    "location": "Remote",
     "salary": "",
     "tags": [
       "Sales and Marketing",
       "Full-Time"
     ],
-    "posted_at": "2026-11-12",
-    "url": "https://weworkremotely.com/remote-jobs/kinelo-marketing-content-intern-part-time",
-    "description": "Headquarters: San Francisco, California, United States Marketing & Content Intern (Part-Time) Remote (US) About Kinelo Kinelo is an early-stage AI startup building technology that helps companies work faster by keeping company knowledge current and making it available to both people and AI. Our proactive AI Coworkers use that knowledge to take on work, coordinate across teams, and keep people inf…"
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-marketing-project-coordinator",
+    "description": "Headquarters: Tirana, Remote, Albania URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary Ma…"
   },
   {
     "source": "weworkremotely",
-    "title": "Customer Service Officer Offshore (Remote)",
-    "company": "PRISM+",
-    "location": "Asia Only",
+    "title": "AI Infrastructure Specialist",
+    "company": "EdgeQ Technologies Private Limited",
+    "location": "USA Only",
     "salary": "",
     "tags": [
-      "Customer Support",
+      "DevOps and Sysadmin",
       "Full-Time"
     ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-infrastructure-specialist",
+    "description": "Headquarters: United States AI Infrastructure Specialist Job Title: AI Infrastructure Specialist Location: United States (Remote) Work Mode: 100% Remote Experience: 2–6 Years Salary Range: $95,000 – $155,000 per year (USD) Employment Type: Full-Time Job Category: Artificial Intelligence / Cloud Infrastructure / DevOps Job Summary We are seeking a skilled and experienced AI Infrastructure Speciali…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Executive Assistant to the Executive Team",
+    "company": "Interos",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/interos-senior-executive-assistant-to-the-executive-team",
+    "description": "Headquarters: URL: https://interos.ai Senior Executive Assistant to the Executive Team About interos.ai interos.ai is the operational resilience company reinventing how organizations manage their supply chains and business relationships. Our breakthrough AI-powered SaaS platform transforms complex business ecosystems into a living global map, down to any single supplier, anywhere. We help compani…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Solutions Engineering",
+    "company": "RHONDOS Inc",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/rhondos-inc-director-solutions-engineering",
+    "description": "Headquarters: United States URL: https://jobs.workable.com/company/g8FJj8hu5htx1s44EsbGZE/jobs-at-rhondos-inc About RHONDOS RHONDOS is the recognized leader in SAP security and observability — trusted by Fortune 500 and Fortune 2000 enterprises globally to secure and observe their most mission-critical systems. Our PowerConnect solution delivers real-time threat detection, compliance automation,…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "AI-Assisted Story Writer (1099 Contract)",
+    "company": "Crazy Maple Studio",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
+    "description": "Headquarters: Culver City, California, United States URL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio Crazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets. Our flagship platform, R…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Spanish Audio Transcription Adjudicator",
+    "company": "Welocalize",
+    "location": "Europe Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-spanish-audio-transcription-adjudicator",
+    "description": "Headquarters: Madrid, Community of Madrid, Spain URL: https://welodata.ai About the Role We are looking for experienced Adjudicators to review and resolve discrepancies in word-level transcription and timestamp annotations for a Spanish speech data project. This role requires strong judgment to make final calls on flagged or disputed segments, ensuring quality and consistency across the annotatio…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Brazilian Portuguese Audio Transcription Rater",
+    "company": "Welocalize",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-brazilian-portuguese-audio-transcription-rater",
+    "description": "Headquarters: São Paulo, São Paulo, Brazil URL: https://welodata.ai About the Role We are looking for detail oriented Portuguese cultural expertise in Brazil for speech data annotation Project. In this role, you will listen to short audio clips and verify or correct word level segment boundaries and transcriptions generated by an automated alignment system. Project Details Job Title: Andromeda De…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Brazilian Portuguese Audio Transcription Adjudicator",
+    "company": "Welocalize",
+    "location": "Latin America Only",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Contract"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-brazilian-portuguese-audio-transcription-adjudicator",
+    "description": "Headquarters: São Paulo, São Paulo, Brazil URL: https://welodata.ai About the Role We are looking for experienced Adjudicators to review and resolve discrepancies in word-level transcription and timestamp annotations for a Spanish speech data project. This role requires strong judgment to make final calls on flagged or disputed segments, ensuring quality and consistency across the annotation pipe…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Content Creator - Youtube",
+    "company": "Metics Media",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-13",
+    "url": "https://weworkremotely.com/remote-jobs/metics-media-content-creator-youtube",
+    "description": "Headquarters: Switzerland URL: https://meticsmedia.com Job Overview Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media. About us Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an aud…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Research Engineer Privacy and Anonymization",
+    "company": "Pragmatike",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": [
+      "design",
+      "embedded",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "finance",
+      "content writing",
+      "ops",
+      "medical",
+      "recruiter",
+      "engineer",
+      "full time",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-12",
+    "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+    "description": "Location: San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones) Start Date: ASAP Languages: English Team: Engineering About the Role Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is al…"
+  },
+  {
+    "source": "remotive",
+    "title": "Senior Data Engineer",
+    "company": "Lemon.io",
+    "location": "LATAM, Europe, USA, Canada, APAC",
+    "salary": "",
+    "tags": [
+      "Data and Analytics",
+      ".Net",
+      "android",
+      "apache",
+      "AWS",
+      "azure",
+      "C",
+      "C#",
+      "C++",
+      "data science",
+      "fullstack",
+      "golang",
+      "ios",
+      "java",
+      "javascript",
+      "magento",
+      "node.js",
+      "php",
+      "python",
+      "react",
+      "ruby/rails",
+      "scala",
+      "shopify",
+      "sql",
+      "swift",
+      "UI/UX",
+      "wordpress",
+      "blockchain",
+      "AI/ML",
+      "automation",
+      "project management",
+      "react native",
+      "rust",
+      "unity",
+      "electron",
+      "spring",
+      "data analysis",
+      "laravel",
+      "Ethereum",
+      "graphic design",
+      "Typescript",
+      "angular",
+      "GCP",
+      "firebase",
+      "Snowflake",
+      "Site Reliability",
+      "Symfony",
+      "next.js",
+      "infrastructure",
+      "flutter"
+    ],
     "posted_at": "2026-11-11",
-    "url": "https://weworkremotely.com/remote-jobs/prism-customer-service-officer-offshore-remote",
-    "description": "Headquarters: Malaysia URL: https://jobs.workable.com/company/wGegwi2DQx7a5FRo2k9CSw/jobs-at-prism%2B PRISM+ is a fast-growing Singapore-based consumer electronics brand known for its TVs, gaming monitors, air conditioners, ceiling fans, and smart home products. As part of the PRISM+ Customer Experience team, you will play a key role in delivering exceptional support and building meaningful relat…"
+    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contr…"
   },
   {
     "source": "remoteok",
@@ -218,48 +403,6 @@
     "posted_at": "2026-11-09",
     "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
     "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end secu…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Strategic Project Lead, Legal (J.D.)",
-    "company": "True Talent Solutions Partners",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-09",
-    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-strategic-project-lead-legal-j-d",
-    "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Lead end-to-end legal and law-related projects for customers at an AI company. You will translate customer needs into actionable specifications and coordinate Operations and legal experts to build and deliver high-quality data workflows. What You'll Do Own projects from initial scoping and pipeline design thro…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Psychiatrist (MD/DO) - Remote",
-    "company": "BetterHelp",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-09",
-    "url": "https://weworkremotely.com/remote-jobs/betterhelp-psychiatrist-md-do-remote",
-    "description": "Headquarters: Texas, United States URL: http://betterhelp.com/linkedin BetterHelp is a technology-enabled mental health marketplace that connects patients with therapists and psychiatric providers covered by their insurance plans. By bringing patients, providers, and insurers together, we aim to remove barriers to care and help more people find the right support for their needs. Why Join BetterHe…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Psychiatric Nurse Practitioner (PMHNP) - Remote",
-    "company": "BetterHelp",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-09",
-    "url": "https://weworkremotely.com/remote-jobs/betterhelp-psychiatric-nurse-practitioner-pmhnp-remote",
-    "description": "Headquarters: Wyoming, Michigan, United States URL: http://betterhelp.com/linkedin BetterHelp is a technology-enabled mental health marketplace that connects patients with therapists and psychiatric providers covered by their insurance plans. By bringing patients, providers, and insurers together, we aim to remove barriers to care and help more people find the right support for their needs. Why J…"
   },
   {
     "source": "weworkremotely",
@@ -739,78 +882,5 @@
     "posted_at": "2026-10-31",
     "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
     "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical w…"
-  },
-  {
-    "source": "remoteok",
-    "title": "AWS Cloud Solutions Architect",
-    "company": "Cloudary SAS",
-    "location": "Worldwide",
-    "salary": "",
-    "tags": [
-      "architecture",
-      "design",
-      "ansible",
-      "infosec",
-      "docker",
-      "technical",
-      "dev",
-      "exec",
-      "serverless",
-      "cloud",
-      "postgres",
-      "sql",
-      "api",
-      "senior",
-      "ops",
-      "sales",
-      "golang",
-      "engineer",
-      "digital nomad"
-    ],
-    "posted_at": "2026-10-30",
-    "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
-    "description": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practice…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Autonomous Systems Security Engineer",
-    "company": "Anthropic",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-30",
-    "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
-    "description": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI sy…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
-    "company": "Smartsheet",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Design",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-30",
-    "url": "https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
-    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
-    "company": "Smartsheet",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-10-30",
-    "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
-    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creat…"
   }
 ]
