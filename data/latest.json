@@ -1,6 +1,104 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Account Executive, Life Sciences",
+    "company": "PHIflow, LLC",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-17",
+    "url": "https://weworkremotely.com/remote-jobs/phiflow-llc-account-executive-life-sciences",
+    "description": "Headquarters: Stamford, Connecticut, United States Earn the trust that moves important work forward. In life sciences, a useful solution must fit the way people establish what is true, document their work, and remain accountable for decisions. Botable builds for that reality. Our mission is to make technology work for people, so people can focus on what they do best. We build and run AI systems t…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior DevOps / Platform Engineer - GCP",
+    "company": "GoMining",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/gomining-senior-devops-platform-engineer-gcp",
+    "description": "Headquarters: Cyprus URL: http://gomining.com Description We are looking for a Senior DevOps / Platform Engineer to develop and operate GoMining's cloud platform. The primary focus of this role is GCP and Kubernetes , infrastructure and application delivery automation, and the reliability and security of production services. You will maintain and improve our existing infrastructure, contribute to…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior DevOps Engineer (DHDP)",
+    "company": "EPAM Systems",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer-dhdp",
+    "description": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Ukraine, Uzbekistan URL: http://epam.com We are looking for a Senior DevOps Engineer to support the Digital Health Data Platform (DHDP) by driving CI/CD, infrastructure automation, deployment, environment configuration, monitoring, and operational support across DEV, QA, PRE-PROD, and PROD. In this role, you will work closely with Data Engin…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Staff DevOps Engineer",
+    "company": "Bloomreach",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/bloomreach-staff-devops-engineer",
+    "description": "Headquarters: Czechia URL: http://bloomreach.com Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Creative Design Team Lead (AI & Performance Marketing)",
+    "company": "CapsLock",
+    "location": "Remote",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing-2",
+    "description": "Headquarters: Tallinn, Remote, Estonia URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary M…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Creative Marketing Project Coordinator",
+    "company": "CapsLock",
+    "location": "Remote",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-marketing-project-coordinator-1",
+    "description": "Headquarters: Yerevan, Remote, Armenia URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary M…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Channel Account Manager",
+    "company": "Airlock Digital",
+    "location": "USA Only",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-16",
+    "url": "https://weworkremotely.com/remote-jobs/airlock-digital-channel-account-manager",
+    "description": "Headquarters: Florida, United States URL: https://www.airlockdigital.com Location:Florida, United States - Remote Who Are We? About Airlock Digital: Airlock Digital is a global leader in application control and allowlisting. We seek to empower every organization to run only what they trust and operate free from malware and ransomware. With rapid growth across Australia, North America, and EMEA. W…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Research Consultant",
     "company": "FELYRI CONSULTING LIMITED",
     "location": "Anywhere in the World",
@@ -42,32 +140,41 @@
     "description": "Headquarters: Colorado Springs, Colorado, United States URL: https://comeandsee.bamboohr.com/careers JOIN THE COME AND SEE TEAM QA Automation Engineer Every person who presses play deserves a product that works, and quality is how we honor them. If you love building systems that catch problems early and see quality as a way to serve people well – we’d love to meet you. ABOUT US Come and See is th…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Creative Strategist (AI-Native, Direct Response)",
-    "company": "SweetSpot Heating and Cooling",
-    "location": "USA Only",
-    "salary": "",
+    "source": "remotive",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "company": "Mitre Media",
+    "location": "USA, Canada, USA timezones",
+    "salary": "$170k - $200k",
     "tags": [
-      "Sales and Marketing",
-      "Contract"
-    ],
-    "posted_at": "2026-11-15",
-    "url": "https://weworkremotely.com/remote-jobs/sweetspot-heating-and-cooling-creative-strategist-ai-native-direct-response",
-    "description": "Headquarters: New York, New York, United States URL: https://sweetspothvac.com/ About SweetSpot Heating & Cooling SweetSpot is a growing home-services company in the New York metro, and we are building our creative team from zero. This is the number one creative seat in the company, not a slot in a large agency hierarchy. The strategist hired here owns the function, works directly with the owner,…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Growth Marketing Manager",
-    "company": "Snout",
-    "location": "USA Only",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
+      "Software Development",
+      "api",
+      "CSS",
+      "docker",
+      "elasticsearch",
+      "fullstack",
+      "html",
+      "javascript",
+      "kubernetes",
+      "postgresql",
+      "react",
+      "ror",
+      "ruby/rails",
+      "AI/ML",
+      "CAD",
+      "advertising",
+      "Redis",
+      "ES6",
+      "web applications",
+      "MySQL",
+      "NLP",
+      "fintech",
+      "Micro services",
+      "github",
+      "system architecture"
     ],
     "posted_at": "2026-11-14",
-    "url": "https://weworkremotely.com/remote-jobs/snout-growth-marketing-manager",
-    "description": "Headquarters: United States URL: http://snout.com 🐶 Our mission Every pet should get the care they need, regardless of cost. Vet med prices are up 40% since 2020, and pet owners are stuck having to pick between their bank account and furry friend. At Snout , we aim to solve this by enabling clinics to offer pet wellness plans, that actually work. 🚀 The opportunity Snout is one of the fastest grow…"
+    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data…"
   },
   {
     "source": "remoteok",
@@ -145,20 +252,6 @@
     "posted_at": "2026-11-13",
     "url": "https://weworkremotely.com/remote-jobs/interos-senior-executive-assistant-to-the-executive-team",
     "description": "Headquarters: URL: https://interos.ai Senior Executive Assistant to the Executive Team About interos.ai interos.ai is the operational resilience company reinventing how organizations manage their supply chains and business relationships. Our breakthrough AI-powered SaaS platform transforms complex business ecosystems into a living global map, down to any single supplier, anywhere. We help compani…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Content Creator - Youtube",
-    "company": "Metics Media",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-13",
-    "url": "https://weworkremotely.com/remote-jobs/metics-media-content-creator-youtube",
-    "description": "Headquarters: Switzerland URL: https://meticsmedia.com Job Overview Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media. About us Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an aud…"
   },
   {
     "source": "remoteok",
@@ -670,22 +763,6 @@
     "description": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&M, Ray-Ban, and Converse. Our platform manages the full lifecycle â creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok, Instagram, and YouTube. The Paid Media Manager will work closely with our Director of Paid Strategy…"
   },
   {
-    "source": "remoteok",
-    "title": "Tech lead",
-    "company": "Ringbook Limited",
-    "location": "Worldwide",
-    "salary": "$40,000 - $50,000",
-    "tags": [
-      "dev",
-      "exec",
-      "accounting",
-      "saas"
-    ],
-    "posted_at": "2026-11-03",
-    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-    "description": "What Youâll Do ãDesign the architecture of the application and make key technical decisions. ãBuild and maintain scalable features across the Ringbook web application. ãIntegrate AI capabilities throughout the platform to create innovative features. ãDevelop clean, responsive, and intuitive frontend interfaces. ãDesign and optimize backend APIs, database schemas, and data pipelines. ã…"
-  },
-  {
     "source": "weworkremotely",
     "title": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
     "company": "ELITEBRAIN",
@@ -698,79 +775,5 @@
     "posted_at": "2026-11-03",
     "url": "https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
     "description": "Headquarters: Pembroke Pines, Florida, United States URL: https://www.elitebrain.ai Company Description Our client is seeking photography professionals to support an initiative focused on evaluating and improving visual data quality for next-generation artificial intelligence systems. The project combines human creative expertise with detailed image assessment to help improve AI-generated visual…"
-  },
-  {
-    "source": "remoteok",
-    "title": "AI ML Engineer",
-    "company": "Docusketch",
-    "location": "Worldwide",
-    "salary": "$10,000 - $120,000",
-    "tags": [
-      "dev",
-      "ai",
-      "machine learning",
-      "deep learning",
-      "artificial intelligence",
-      "neural networks",
-      "3D",
-      "exec",
-      "PyTorch",
-      "product"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
-    "description": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing softwa…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Software Engineer Infrastructure",
-    "company": "Sodalis, Inc.",
-    "location": "Palo Alto",
-    "salary": "$185,000 - $215,000",
-    "tags": [
-      "dev",
-      "design",
-      "embedded",
-      "sys admin",
-      "cloud",
-      "ruby",
-      "exec",
-      "ops",
-      "golang",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
-    "description": "Software Engineer, Infrastructure Hybrid in Palo Alto (Mon / Wed / Thurs) Â· $185Kâ$215K base + meaningful early-stage equity + full benefits Â About Sodalis Specialty pharmacy is where the most complex and expensive drugs reach the most in-need patients, and it still runs on faxes, phone tag, and manual data entry. Patients wait weeks for therapies that can't wait. Sodalis is building AI agent…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Solution Architect",
-    "company": "Otter.ai",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/otter-ai-senior-solution-architect",
-    "description": "Headquarters: Mountain View, CA; Remote The Opportunity We are seeking a talented Senior Solution Architect with deep enterprise pre-sales experience who wants to own the technical sale for complex, multi-stakeholder deals and help define how our AI meeting intelligence platform wins against the market's toughest competitors. Your Impact Own the technical sale in strategic Enterprise accounts ($2…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Salesforce Business Systems Administrator",
-    "company": "Salesloft",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-02",
-    "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
-    "description": "Headquarters: United States, Remote ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovatio…"
   }
 ]
