@@ -1,6 +1,378 @@
 [
   {
     "source": "weworkremotely",
+    "title": "Senior Product Marketing Manager",
+    "company": "LaunchDarkly",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-product-marketing-manager",
+    "description": "Headquarters: Remote - US About the Job: Teams are putting AI agents into production everywhere, and almost no one owns controlling them once they’re there. Agents make decisions at runtime, change behavior with every model update, and touch systems that were never designed for them. The teams that figure out how to govern, observe, and control agents in production will set the pace for the AI er…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Accounting Manager",
+    "company": "Customer.io",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/customer-io-accounting-manager",
+    "description": "Headquarters: Americas Remote About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, my…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Account Executive, Enterprise (Walmart)",
+    "company": "Everpure",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-walmart",
+    "description": "Headquarters: Remote, Texas Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosys…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Director, Engineering",
+    "company": "CircleCI",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-director-engineering",
+    "description": "Headquarters: Remote UK, Remote Canada, Remote US CircleCI is the platform that powers continuous integration and delivery for the world's best engineering teams — helping them build, test, and ship software quickly, safely, and confidently, including the new generation of AI-assisted development. Do you want to lead the teams that set that example for customers? The Director, Engineering is a st…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Account Executive, Enterprise (Virginia)",
+    "company": "Everpure",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-virginia",
+    "description": "Headquarters: Remote, Virginia Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI eco…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Staff Machine Learning Engineer, Trust",
+    "company": "Airbnb",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-staff-machine-learning-engineer-trust",
+    "description": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Commun…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Staff Machine Learning Engineer, Post Training",
+    "company": "Airbnb",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-staff-machine-learning-engineer-post-training",
+    "description": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Commun…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Product Operations Manager (Remote Eligible)",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Product",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-product-operations-manager-remote-eligible",
+    "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Sr. Statistician, Client Intelligence",
+    "company": "Doximity",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence",
+    "description": "Headquarters: San Francisco, CA or Remote (U.S.) Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Principal Enterprise Architect",
+    "company": "Celonis",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-principal-enterprise-architect",
+    "description": "Headquarters: Remote, US, Washington Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Brand Partnership Associate, Sports",
+    "company": "Coinbase",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-brand-partnership-associate-sports",
+    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn’t a place for complac…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Regional Vice President, Biddable",
+    "company": "Doximity",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-regional-vice-president-biddable",
+    "description": "Headquarters: Remote (U.S.) Regional Vice President, Biddable Location: Remote, United States About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care fo…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Principal Pricing Program & Operations Manager (Remote Eligible)",
+    "company": "Smartsheet",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Management and Finance",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-pricing-program-operations-manager-remote-eligible",
+    "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Lead Applied Value Engineer - AI & Process Intelligence Consultant",
+    "company": "Celonis",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Full-Stack Programming",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer-ai-process-intelligence-consultant",
+    "description": "Headquarters: Remote, United Arab Emirates Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis an…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Brand Partnership Associate - esports, Gaming & Internet Culture",
+    "company": "Coinbase",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "All Other Remote",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-brand-partnership-associate-esports-gaming-internet-culture",
+    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn’t a place for complac…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Enterprise Account Executive (Denver)",
+    "company": "PagerDuty",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-25",
+    "url": "https://weworkremotely.com/remote-jobs/pagerduty-enterprise-account-executive-denver",
+    "description": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Portfolio Customer Success Manager",
+    "company": "LastPass",
+    "location": "Canada Only",
+    "salary": "",
+    "tags": [
+      "customer support"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://remoteOK.com/remote-jobs/remote-portfolio-customer-success-manager-lastpass-1138083",
+    "description": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and se…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Revenue Operations Analyst",
+    "company": "Augment",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": [
+      "analyst",
+      "saas",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance",
+      "admin",
+      "ops",
+      "excel",
+      "legal",
+      "sales",
+      "medical"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
+    "description": "About Augment Logistics is broken. Let's fix it. We are a team of engineers, product designers, and customer champions building Augie, Augment's AI teammate for supply chain. Augie reasons and acts like a seasoned operator, automating the busywork of quoting, dispatch, tracking, billing, and more for freight brokers, 3PLs, for-hire carriers, private fleets, and distributors. Our team has scaled b…"
+  },
+  {
+    "source": "remoteok",
+    "title": "Senior Tax Associate",
+    "company": "Real REMAX Group",
+    "location": "Newark",
+    "salary": "$118,000 - $150,000",
+    "tags": [
+      "design",
+      "technical",
+      "customer support",
+      "accounting",
+      "education",
+      "finance",
+      "c",
+      "microsoft",
+      "senior",
+      "junior",
+      "ops",
+      "excel",
+      "legal",
+      "digital nomad"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
+    "description": "Real REMAX Group (Nasdaq: REAX) is a global real estate company bringing together two trusted brands and a shared belief: when real estate professionals are empowered by innovation and community, everyone benefits. By combining Realâs AI-powered technology platform and entrepreneurial community with REMAXâs iconic global brand and trusted franchise network, weâre building one of the industr…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "VP, Product Marketing & Executive Thought Leadership",
+    "company": "Collibra",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Sales and Marketing",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/collibra-vp-product-marketing-executive-thought-leadership",
+    "description": "Headquarters: Remote, USA Joining Collibra's Marketing Team At Collibra, we believe the next decade of enterprise value will be decided by whether AI can be trusted to act. Agents are moving from demos to decisions, and the leaders deploying them need certainty at the speed of AI. It's why we built the Enterprise AI Control Plane, over eighteen years of ontology engineering, to govern context and…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Technical Support Engineer I",
+    "company": "Tines",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Customer Support",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/tines-technical-support-engineer-i",
+    "description": "Headquarters: United States - East (Remote) Tines is the complete environment for enterprise AI, trusted by organizations like Reddit, SAP, Mars, Fin, and Headspace. Tines gives all teams a safe, scalable way to turn their expertise into software, whatever their technical background. Since its founding in 2018, Tines has enabled over 600 enterprise customers to run their most important work, wher…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Manager, Pricing",
+    "company": "Tines",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "Product",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/tines-senior-manager-pricing",
+    "description": "Headquarters: Boston, MA (Remote); United States - East (Remote) Tines is the complete environment for enterprise AI, trusted by organizations like Reddit, SAP, Mars, Fin, and Headspace. Tines gives all teams a safe, scalable way to turn their expertise into software, whatever their technical background. Since its founding in 2018, Tines has enabled over 600 enterprise customers to run their most…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Engineering Manager - Grafana Infrastructure (Remote, UK)",
+    "company": "Grafana Labs",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-uk",
+    "description": "Headquarters: United Kingdom (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observabi…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Engineering Manager - Grafana Infrastructure (Remote, Spain)",
+    "company": "Grafana Labs",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-spain",
+    "description": "Headquarters: Spain (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to A…"
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Senior Manager, Security",
+    "company": "LaunchDarkly",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": [
+      "DevOps and Sysadmin",
+      "Full-Time"
+    ],
+    "posted_at": "2026-11-24",
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-manager-security",
+    "description": "Headquarters: Remote - US West About the Job: We're looking for a senior security leader to run our Product Security team and partner to the Director of Security. In this role, you'll own how Security operates: a program led by risk rather than audit calendars, where engineering teams own their security health and Security informs, guides, and validates, where automation and AI take the first pas…"
+  },
+  {
+    "source": "weworkremotely",
     "title": "Senior QA Engineer - Europe",
     "company": "Storyblok",
     "location": "Anywhere in the World",
@@ -12,132 +384,6 @@
     "posted_at": "2026-11-24",
     "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe",
     "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. WHAT IS IN IT FOR YOU You will be joining…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Account Executive, Enterprise (Columbus, Ohio)",
-    "company": "Everpure",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-columbus-ohio",
-    "description": "Headquarters: Remote, Ohio Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosyst…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Global Partner Specialist - USA",
-    "company": "Storyblok",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-global-partner-specialist-usa",
-    "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. WHAT IS IN IT FOR YOU You will be joining…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Enterprise Account Executive, Sacramento",
-    "company": "Glean",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/glean-enterprise-account-executive-sacramento",
-    "description": "Headquarters: Remote - US About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs,…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Corporate Accountant - Tax",
-    "company": "Salesloft",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Management and Finance",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-corporate-accountant-tax",
-    "description": "Headquarters: United States, Remote Job Title: Senior Corporate Accountant, Tax Location: United States, Remote This is a fully remote opportunity but is preferred to be worked from Atlanta, Georgia, United States or the Eastern Time Zone. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combi…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Enterprise Account Executive, Oregon",
-    "company": "Glean",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Sales and Marketing",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/glean-enterprise-account-executive-oregon",
-    "description": "Headquarters: Remote - US About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs,…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "General Accountant - Accounts Payable",
-    "company": "Upsun",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
-    "description": "Headquarters: Remote • France, Spain, Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together throu…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Software Engineer Guest & Host",
-    "company": "Airbnb",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-software-engineer-guest-host",
-    "description": "Headquarters: Remote, USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Communi…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Mobile Software Engineer, Quality Engineering",
-    "company": "Airbnb",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Full-Stack Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-mobile-software-engineer-quality-engineering",
-    "description": "Headquarters: Brazil - Remote Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Com…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior Customer Success Manager, Strategic",
-    "company": "Customer.io",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Customer Support",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-24",
-    "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-customer-success-manager-strategic",
-    "description": "Headquarters: Americas Remote About Customer.io Over 9,000 companies, from scrappy startups to global brands, use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. Hi! I’m Lauren, Senior…"
   },
   {
     "source": "remoteok",
@@ -178,62 +424,6 @@
     "posted_at": "2026-11-23",
     "url": "https://weworkremotely.com/remote-jobs/mixpanel-senior-customer-engineer-latam-spanish-speaking",
     "description": "Headquarters: Remote, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.co…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
-    "company": "Grafana Labs",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-23",
-    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-ireland",
-    "description": "Headquarters: Republic of Ireland (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and obse…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Engineering Manager - Grafana Infrastructure (Remote, Canada)",
-    "company": "Grafana Labs",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "DevOps and Sysadmin",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-23",
-    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-canada",
-    "description": "Headquarters: Canada (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Solutions Engineer, Okta(Enterprise)",
-    "company": "Okta",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-23",
-    "url": "https://weworkremotely.com/remote-jobs/okta-solutions-engineer-okta-enterprise",
-    "description": "Headquarters: Massachusetts Remote Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with s…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Director, Strategic AI Partnerships",
-    "company": "Dropbox",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Product",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-23",
-    "url": "https://weworkremotely.com/remote-jobs/dropbox-director-strategic-ai-partnerships",
-    "description": "Headquarters: Remote - US: San Francisco, CA Role Description The Dropbox Business Development team builds strategic partnerships that expand product adoption, create new distribution channels, and drive long-term customer and revenue growth. We are hiring a Director of Strategic AI Partnerships to own a focused portfolio of Dropbox’s highest-priority AI relationships, including OpenAI, Anthropic…"
   },
   {
     "source": "weworkremotely",
@@ -499,34 +689,6 @@
     "description": "Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock. As Senior Applied AI Engineer (all genders), you work like a forward deployed engineer, embedded with our internal…"
   },
   {
-    "source": "weworkremotely",
-    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
-    "company": "GitLab",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Back-End Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-21",
-    "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
-    "description": "Headquarters: Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-    "company": "GitLab",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "Back-End Programming",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-21",
-    "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
-    "description": "Headquarters: Remote, Canada; Remote, Poland; Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to s…"
-  },
-  {
     "source": "remoteok",
     "title": "Quality Engineer",
     "company": "Quartermaster",
@@ -614,45 +776,6 @@
     "description": "Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for…"
   },
   {
-    "source": "remoteok",
-    "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
-    "company": "Everpure",
-    "location": "UK Only",
-    "salary": "",
-    "tags": [
-      "sales"
-    ],
-    "posted_at": "2026-11-20",
-    "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
-    "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwor…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Lifecycle Value Manager, Germany",
-    "company": "Everpure",
-    "location": "Europe",
-    "salary": "",
-    "tags": [
-      "sales"
-    ],
-    "posted_at": "2026-11-20",
-    "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
-    "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwor…"
-  },
-  {
-    "source": "remoteok",
-    "title": "Regional MSP Partner Manager, EMEA South (Paris)",
-    "company": "Everpure",
-    "location": "Europe",
-    "salary": "",
-    "tags": [
-      "sales"
-    ],
-    "posted_at": "2026-11-20",
-    "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
-    "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwor…"
-  },
-  {
     "source": "remotive",
     "title": "Content Reviewer - United States",
     "company": "TELUS Digital",
@@ -671,20 +794,6 @@
     "posted_at": "2026-11-19",
     "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
     "description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your cu…"
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Senior QA Automation Engineer",
-    "company": "Proxify AB",
-    "location": "Anywhere in the World",
-    "salary": "",
-    "tags": [
-      "All Other Remote",
-      "Full-Time"
-    ],
-    "posted_at": "2026-11-19",
-    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer-2",
-    "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior QA Automation Engineer to join one of our high-growth client teams as the primary architect of their quality assurance strategy. In this role, you will move beyond manual validation to build robust, scalable automation frameworks that ensure software reliability at high velocity. You will be responsible for t…"
   },
   {
     "source": "remotive",
@@ -805,65 +914,6 @@
     ],
     "posted_at": "2026-11-11",
     "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contr…"
-  },
-  {
-    "source": "remotive",
-    "title": "Senior React Full-stack Developer",
-    "company": "Lemon.io",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "salary": "",
-    "tags": [
-      "Software Development",
-      ".Net",
-      "android",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "react js",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript",
-      "angular",
-      "GCP",
-      "firebase",
-      "data engineering",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "flutter"
-    ],
-    "posted_at": "2026-11-10",
-    "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
     "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contr…"
   }
 ]
